@@ -1,0 +1,2098 @@
+2025-11-11 17:46:57,528 - INFO - 程序开始了！！！！
+2025-11-11 17:57:18,861 - INFO - 程序开始了！！！！
+2025-11-11 17:57:30,367 - INFO - 开启根据excel[xls、xlsx、csv格式]快速导入mysql数据库功能
+
+2025-11-11 17:57:30,471 - ERROR - ☆ 未找到文件夹 'import_excel'，请确保文件夹路径正确并存在。
+2025-11-11 17:58:18,333 - INFO - 程序开始了！！！！
+2025-11-11 17:58:41,765 - INFO - 开启根据excel[xls、xlsx、csv格式]快速导入mysql数据库功能
+
+2025-11-20 15:38:44,481 - INFO - 程序开始了！！！！
+2025-11-20 15:42:08,355 - INFO - 开启根据excel[xls、xlsx、csv格式]快速导入mysql数据库功能
+
+2025-11-20 15:42:11,341 - INFO - ☆ 您选择的文件是: import_excel\UCS Mapping Table (20251111) v.2 1 (4).xlsx
+
+2025-11-20 15:42:20,893 - INFO - 成功加载工作表: white list
+
+2025-11-20 15:42:20,994 - INFO - 数据加载成功！
+
+2025-11-20 15:42:21,095 - ERROR - 配置文件 ./db_config.txt 不存在，错误信息: [Errno 2] No such file or directory: './db_config.txt'
+2025-11-20 15:42:57,245 - INFO - 程序开始了！！！！
+2025-11-20 15:43:00,150 - INFO - 开启根据excel[xls、xlsx、csv格式]快速导入mysql数据库功能
+
+2025-11-20 15:43:02,117 - INFO - ☆ 您选择的文件是: import_excel\UCS Mapping Table (20251111) v.2 1 (4).xlsx
+
+2025-11-20 15:43:05,750 - INFO - 成功加载工作表: white list
+
+2025-11-20 15:43:05,851 - INFO - 数据加载成功！
+
+2025-11-20 15:43:15,257 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-11-20 15:45:17,623 - INFO - 表 `white_list` 创建成功！
+
+2025-11-20 15:45:17,879 - INFO - ☆ 程序已经结束 ☆
+ 
+2025-11-20 15:59:58,167 - INFO - 程序开始了！！！！
+2025-11-20 16:00:02,366 - INFO - 开启根据excel[xls、xlsx、csv格式]快速导入mysql数据库功能
+
+2025-11-20 16:00:07,647 - INFO - ☆ 您选择的文件是: import_excel\UCS Mapping Table (20251111) v.2 1 (4).xlsx
+
+2025-11-20 16:00:14,795 - INFO - 成功加载工作表: white list
+
+2025-11-20 16:00:14,897 - INFO - 数据加载成功！
+
+2025-11-20 16:01:15,464 - INFO - 程序开始了！！！！
+2025-11-20 16:01:17,623 - INFO - 开启根据excel[xls、xlsx、csv格式]快速导入mysql数据库功能
+
+2025-11-20 16:01:20,014 - INFO - ☆ 您选择的文件是: import_excel\UCS Mapping Table (20251111) v.2 1 (4).xlsx
+
+2025-11-20 16:01:28,084 - INFO - 成功加载工作表: Main
+
+2025-11-20 16:01:28,185 - INFO - 数据加载成功！
+
+2025-11-20 16:06:38,684 - INFO - 程序开始了！！！！
+2025-11-20 16:06:41,055 - INFO - 开启根据excel[xls、xlsx、csv格式]快速导入mysql数据库功能
+
+2025-11-20 16:06:42,734 - INFO - ☆ 您选择的文件是: import_excel\UCS Mapping Table (20251111) v.2 1 (4).xlsx
+
+2025-11-20 16:06:46,602 - INFO - 成功加载工作表: Main
+
+2025-11-20 16:06:46,703 - INFO - 数据加载成功！
+
+2025-11-20 17:35:32,923 - INFO - 程序开始了！！！！
+2025-11-20 17:35:36,144 - INFO - 开启根据excel[xls、xlsx、csv格式]快速导入mysql数据库功能
+
+2025-11-20 17:35:38,159 - INFO - ☆ 您选择的文件是: import_excel\UCS Mapping Table (20251111) v.2 1 (4).xlsx
+
+2025-11-20 17:35:41,867 - INFO - 成功加载工作表: Main
+
+2025-11-20 17:35:41,969 - INFO - 数据加载成功！
+
+2025-11-21 17:51:43,534 - INFO - 程序开始了！！！！
+2025-11-21 17:51:51,403 - INFO - 开启根据excel[xls、xlsx、csv格式]快速导入mysql数据库功能
+
+2025-11-21 17:51:51,504 - ERROR - ☆ 在文件夹 'D:\2025\AI\exe\migration_tools\import_excel' 中未找到任何 Excel 或 CSV 文件，请确认文件是否存在且格式正确。
+2025-11-21 17:57:24,363 - INFO - 程序开始了！！！！
+2025-11-21 17:57:26,857 - INFO - 开启根据excel[xls、xlsx、csv格式]快速导入mysql数据库功能
+
+2025-11-21 17:57:29,115 - INFO - ☆ 您选择的文件是: D:\2025\AI\exe\migration_tools\import_excel\UCS Mapping Table (20251111) v.2 1 (4).xlsx
+
+2025-11-21 17:57:33,275 - INFO - 成功加载工作表: Main
+
+2025-11-21 17:57:33,376 - INFO - 数据加载成功！
+
+2025-11-21 17:57:35,329 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-11-21 17:57:35,625 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-11-21 17:57:35,726 - ERROR - 连接数据库 dataeconeucs 时发生错误
+2025-11-21 17:57:35,726 - INFO - 数据库连接成功！
+
+2025-11-24 09:54:28,966 - INFO - 程序开始了！！！！
+2025-11-24 09:54:32,328 - INFO - 开启根据excel[xls、xlsx、csv格式]快速导入mysql数据库功能
+
+2025-11-24 09:54:35,392 - INFO - ☆ 您选择的文件是: D:\2025\AI\exe\migration_tools\import_excel\UCS Mapping Table (20251111) v.2 1 (4).xlsx
+
+2025-11-24 09:54:45,669 - INFO - 成功加载工作表: Main
+
+2025-11-24 09:54:45,770 - INFO - 数据加载成功！
+
+2025-11-24 09:54:48,198 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-11-24 09:54:48,307 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-11-24 09:54:48,416 - ERROR - 连接数据库 dataeconeucs 时发生错误
+2025-11-24 09:54:48,417 - INFO - 数据库连接成功！
+
+2025-11-24 11:02:01,376 - INFO - 开启根据excel[xls、xlsx、csv格式]快速导入mysql数据库功能
+
+2025-11-24 11:02:03,378 - INFO - ☆ 您选择的文件是: D:\2025\AI\exe\migration_tools\import_excel\UCS Mapping Table (20251111) v.2 1 (4).xlsx
+
+2025-11-24 11:02:09,046 - INFO - 成功加载工作表: Main
+
+2025-11-24 11:02:09,148 - INFO - 数据加载成功！
+
+2025-11-24 11:02:11,110 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-11-24 11:02:11,189 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-11-24 11:02:11,290 - ERROR - 连接数据库 dataeconeucs 时发生错误
+2025-11-24 11:02:11,290 - INFO - 数据库连接成功！
+
+2025-11-24 11:02:33,594 - INFO - 表 `lyy_test` 创建成功！
+
+2025-11-24 12:09:00,674 - INFO - 程序开始了！！！！
+2025-11-24 12:09:04,101 - INFO - 开启根据excel[xls、xlsx、csv格式]快速导入mysql数据库功能
+
+2025-11-24 12:09:07,372 - INFO - ☆ 您选择的文件是: D:\2025\AI\exe\migration_tools\import_excel\ONE Premium (SME solution) Product list (6).xlsx
+
+2025-11-24 12:09:13,642 - INFO - 成功加载工作表: (BBI) Premium_Service
+
+2025-11-24 12:09:13,743 - INFO - 数据加载成功！
+
+2025-11-24 12:09:17,266 - INFO - 选择的数据库: dataeconeucsuat (10.168.180.66:3306/mECONECOMM01)
+2025-11-24 12:09:17,266 - INFO - 111连接到数据库: dataeconeucsuat
+
+2025-11-24 12:09:17,531 - INFO - 成功连接到数据库: dataeconeucsuat
+
+2025-11-24 12:09:17,631 - INFO - 数据库连接成功！
+
+2025-11-24 12:09:35,846 - INFO - 表 `ucs_BBI_Premium_Service` 创建成功！
+
+2025-11-24 12:09:40,963 - INFO - 开启根据excel[xls、xlsx、csv格式]快速导入mysql数据库功能
+
+2025-11-24 12:09:44,003 - INFO - ☆ 您选择的文件是: D:\2025\AI\exe\migration_tools\import_excel\ONE Premium (SME solution) Product list (6).xlsx
+
+2025-11-24 12:09:49,658 - INFO - 成功加载工作表: (LTS) Prem Fix-Penalty 13Nov25
+
+2025-11-24 12:09:49,759 - INFO - 数据加载成功！
+
+2025-11-24 12:09:53,219 - INFO - 选择的数据库: dataeconeucsuat (10.168.180.66:3306/mECONECOMM01)
+2025-11-24 12:09:53,219 - INFO - 111连接到数据库: dataeconeucsuat
+
+2025-11-24 12:09:53,299 - INFO - 成功连接到数据库: dataeconeucsuat
+
+2025-11-24 12:09:53,400 - INFO - 数据库连接成功！
+
+2025-11-24 12:10:10,772 - ERROR - 创建表时发生错误: 1118 (42000): Row size too large. The maximum row size for the used table type, not counting BLOBs, is 65535. This includes storage overhead, check the manual. You have to change some columns to TEXT or BLOBs
+
+2025-11-24 12:11:12,313 - INFO - 开启根据excel[xls、xlsx、csv格式]快速导入mysql数据库功能
+
+2025-11-24 12:11:14,939 - INFO - ☆ 您选择的文件是: D:\2025\AI\exe\migration_tools\import_excel\ONE Premium (SME solution) Product list (6).xlsx
+
+2025-11-24 12:11:17,915 - INFO - 成功加载工作表: (LTS) Premium_Service
+
+2025-11-24 12:11:18,016 - INFO - 数据加载成功！
+
+2025-11-24 12:11:19,483 - INFO - 选择的数据库: dataeconeucsuat (10.168.180.66:3306/mECONECOMM01)
+2025-11-24 12:11:19,483 - INFO - 111连接到数据库: dataeconeucsuat
+
+2025-11-24 12:11:19,555 - INFO - 成功连接到数据库: dataeconeucsuat
+
+2025-11-24 12:11:19,656 - INFO - 数据库连接成功！
+
+2025-11-24 12:11:31,013 - ERROR - 创建表时发生错误: 1118 (42000): Row size too large. The maximum row size for the used table type, not counting BLOBs, is 65535. This includes storage overhead, check the manual. You have to change some columns to TEXT or BLOBs
+
+2025-11-24 17:29:18,195 - INFO - 程序开始了！！！！
+2025-11-24 17:29:22,517 - INFO - 开启根据excel[xls、xlsx、csv格式]快速导入mysql数据库功能
+
+2025-11-24 17:29:24,988 - INFO - ☆ 您选择的文件是: D:\2025\AI\exe\migration_tools\import_excel\ONE Premium (SME solution) Product list (6).xlsx
+
+2025-11-24 17:29:28,402 - INFO - 成功加载工作表: (BBI) Prem Fix-Penalty 13Nov25
+
+2025-11-24 17:29:28,503 - INFO - 数据加载成功！
+
+2025-11-24 17:29:30,954 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-11-24 17:29:30,954 - INFO - 111连接到数据库: dataeconeucs
+
+2025-11-24 17:29:35,084 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-11-24 17:29:36,742 - INFO - 数据库连接成功！
+
+2025-11-24 17:41:56,846 - INFO - 程序开始了！！！！
+2025-11-24 17:41:59,617 - INFO - 开启根据excel[xls、xlsx、csv格式]快速导入mysql数据库功能
+
+2025-11-24 17:42:05,368 - INFO - ☆ 您选择的文件是: D:\2025\AI\exe\migration_tools\import_excel\UCS Mapping Table (20251111) v.2 1 (4).xlsx
+
+2025-11-24 17:42:13,142 - INFO - 成功加载工作表: Main
+
+2025-11-24 17:42:13,243 - INFO - 数据加载成功！
+
+2025-11-24 17:42:15,961 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-11-24 17:42:19,776 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-11-24 17:42:43,191 - INFO - 表字段有: ['Version', 'PSEF_Code', 'PSEF_Description', 'PSEF_Cat', 'MRC', 'TP_MRC', 'Group', 'Group1', 'Comment', 'Product_ID', 'Product_Name', 'Package_ID', 'Package_Name', 'Element_ID', 'Element_Name', 'Element_Type', 'Product_Sub_type', 'Version1', 'Unnamed:_18', 'PSEF_Description1', 'Unnamed:_20', 'Unnamed:_21', 'Unnamed:_22', 'Unnamed:_23', 'Unnamed:_24']个
+2025-11-24 17:43:41,929 - ERROR - 程序发生未处理的异常: (1118, 'Row size too large. The maximum row size for the used table type, not counting BLOBs, is 65535. This includes storage overhead, check the manual. You have to change some columns to TEXT or BLOBs')
+Traceback (most recent call last):
+  File "D:\2025\AI\exe\migration_tools\main.py", line 35, in <module>
+    choose_menu()
+  File "D:\2025\AI\exe\migration_tools\main.py", line 14, in choose_menu
+    excelImportService.excel_to_mysql()
+  File "D:\2025\AI\exe\migration_tools\service\excelImportService.py", line 47, in excel_to_mysql
+    cursor.execute(create_sql)
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\cursors.py", line 153, in execute
+    result = self._query(query)
+             ^^^^^^^^^^^^^^^^^^
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\connections.py", line 575, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\connections.py", line 826, in _read_query_result
+    result.read()
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\connections.py", line 1203, in read
+    first_packet = self.connection._read_packet()
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\connections.py", line 782, in _read_packet
+    packet.raise_for_error()
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1118, 'Row size too large. The maximum row size for the used table type, not counting BLOBs, is 65535. This includes storage overhead, check the manual. You have to change some columns to TEXT or BLOBs')
+2025-11-24 17:43:56,205 - INFO - 程序开始了！！！！
+2025-11-24 17:43:59,896 - INFO - 开启根据excel[xls、xlsx、csv格式]快速导入mysql数据库功能
+
+2025-11-24 17:44:01,845 - INFO - ☆ 您选择的文件是: D:\2025\AI\exe\migration_tools\import_excel\UCS Mapping Table (20251111) v.2 1 (4).xlsx
+
+2025-11-24 17:44:08,959 - INFO - 成功加载工作表: Term_Plan
+
+2025-11-24 17:44:09,065 - INFO - 数据加载成功！
+
+2025-11-24 17:44:12,133 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-11-24 17:44:12,234 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-11-24 17:44:23,408 - INFO - 表字段有: 22个
+2025-11-24 17:45:01,302 - ERROR - 程序发生未处理的异常: (1118, 'Row size too large. The maximum row size for the used table type, not counting BLOBs, is 65535. This includes storage overhead, check the manual. You have to change some columns to TEXT or BLOBs')
+Traceback (most recent call last):
+  File "D:\2025\AI\exe\migration_tools\main.py", line 35, in <module>
+    choose_menu()
+  File "D:\2025\AI\exe\migration_tools\main.py", line 14, in choose_menu
+    excelImportService.excel_to_mysql()
+  File "D:\2025\AI\exe\migration_tools\service\excelImportService.py", line 47, in excel_to_mysql
+    cursor.execute(create_sql)
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\cursors.py", line 153, in execute
+    result = self._query(query)
+             ^^^^^^^^^^^^^^^^^^
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\connections.py", line 575, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\connections.py", line 826, in _read_query_result
+    result.read()
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\connections.py", line 1203, in read
+    first_packet = self.connection._read_packet()
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\connections.py", line 782, in _read_packet
+    packet.raise_for_error()
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1118, 'Row size too large. The maximum row size for the used table type, not counting BLOBs, is 65535. This includes storage overhead, check the manual. You have to change some columns to TEXT or BLOBs')
+2025-11-24 17:50:44,001 - INFO - 程序开始了！！！！
+2025-11-24 17:50:51,744 - INFO - 开启根据excel[xls、xlsx、csv格式]快速导入mysql数据库功能
+
+2025-11-24 17:50:54,892 - INFO - ☆ 您选择的文件是: D:\2025\AI\exe\migration_tools\import_excel\ONE Premium (SME solution) Product list (6).xlsx
+
+2025-11-24 17:50:57,907 - INFO - 成功加载工作表: (BBI) Prem Fix-Penalty 13Nov25
+
+2025-11-24 17:50:58,016 - INFO - 数据加载成功！
+
+2025-11-24 17:51:00,412 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-11-24 17:51:00,557 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-11-24 17:51:35,221 - INFO - 表字段有: 97个
+2025-11-24 17:51:59,113 - ERROR - 程序发生未处理的异常: (1118, 'Row size too large. The maximum row size for the used table type, not counting BLOBs, is 65535. This includes storage overhead, check the manual. You have to change some columns to TEXT or BLOBs')
+Traceback (most recent call last):
+  File "D:\2025\AI\exe\migration_tools\main.py", line 35, in <module>
+    choose_menu()
+  File "D:\2025\AI\exe\migration_tools\main.py", line 14, in choose_menu
+    excelImportService.excel_to_mysql()
+  File "D:\2025\AI\exe\migration_tools\service\excelImportService.py", line 47, in excel_to_mysql
+    cursor.execute(create_sql)
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\cursors.py", line 153, in execute
+    result = self._query(query)
+             ^^^^^^^^^^^^^^^^^^
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\connections.py", line 575, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\connections.py", line 826, in _read_query_result
+    result.read()
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\connections.py", line 1203, in read
+    first_packet = self.connection._read_packet()
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\connections.py", line 782, in _read_packet
+    packet.raise_for_error()
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1118, 'Row size too large. The maximum row size for the used table type, not counting BLOBs, is 65535. This includes storage overhead, check the manual. You have to change some columns to TEXT or BLOBs')
+2025-11-24 17:57:01,058 - INFO - 程序开始了！！！！
+2025-11-24 17:57:07,816 - INFO - 开启根据excel[xls、xlsx、csv格式]快速导入mysql数据库功能
+
+2025-11-24 17:57:11,404 - INFO - ☆ 您选择的文件是: D:\2025\AI\exe\migration_tools\import_excel\UCS Mapping Table (20251111) v.2 1 (4).xlsx
+
+2025-11-24 17:57:18,122 - INFO - 成功加载工作表: Main
+
+2025-11-24 17:57:18,227 - INFO - 数据加载成功！
+
+2025-11-24 17:57:20,512 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-11-24 17:57:20,608 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-11-24 17:57:37,745 - INFO - 表字段有: 25个
+2025-11-24 17:57:37,750 - ERROR - 程序发生未处理的异常: 'TP_MRC'
+Traceback (most recent call last):
+  File "D:\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "pandas/_libs/index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7088, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7096, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'TP_MRC'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\2025\AI\exe\migration_tools\main.py", line 35, in <module>
+    choose_menu()
+  File "D:\2025\AI\exe\migration_tools\main.py", line 14, in choose_menu
+    excelImportService.excel_to_mysql()
+  File "D:\2025\AI\exe\migration_tools\service\excelImportService.py", line 42, in excel_to_mysql
+    create_sql = excelImportDao.generate_create_table_sql(table_name, df)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\2025\AI\exe\migration_tools\dao\excelImportDao.py", line 34, in generate_create_table_sql
+    max_length = df[col].astype(str).str.len().max()
+                 ~~^^^^^
+  File "D:\Programs\Python\Python312\Lib\site-packages\pandas\core\frame.py", line 4113, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3819, in get_loc
+    raise KeyError(key) from err
+KeyError: 'TP_MRC'
+2025-11-24 18:10:06,014 - INFO - 程序开始了！！！！
+2025-11-24 18:10:08,772 - INFO - 开启根据excel[xls、xlsx、csv格式]快速导入mysql数据库功能
+
+2025-11-24 18:10:10,498 - INFO - ☆ 您选择的文件是: D:\2025\AI\exe\migration_tools\import_excel\UCS Mapping Table (20251111) v.2 1 (4).xlsx
+
+2025-11-24 18:10:17,949 - INFO - 成功加载工作表: Term_Plan
+
+2025-11-24 18:10:18,053 - INFO - 数据加载成功！
+
+2025-11-24 18:10:24,935 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-11-24 18:10:25,031 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-11-24 18:10:31,690 - INFO - 字段共有: 22个
+
+2025-11-24 18:10:31,690 - INFO - 计算出的动态字段长度: 595 (基于22列)
+2025-11-24 18:10:43,322 - INFO - 表 `lyy_test` 创建成功！
+
+2025-11-24 18:11:10,888 - INFO - 开启根据excel[xls、xlsx、csv格式]快速导入mysql数据库功能
+
+2025-11-24 18:11:12,635 - INFO - ☆ 您选择的文件是: D:\2025\AI\exe\migration_tools\import_excel\ONE Premium (SME solution) Product list (6).xlsx
+
+2025-11-24 18:11:15,809 - INFO - 成功加载工作表: (BBI) Prem Fix-Penalty 13Nov25
+
+2025-11-24 18:11:15,917 - INFO - 数据加载成功！
+
+2025-11-24 18:11:23,743 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-11-24 18:11:23,839 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-11-24 18:11:30,358 - INFO - 字段共有: 97个
+
+2025-11-24 18:11:30,358 - INFO - 计算出的动态字段长度: 135 (基于97列)
+2025-11-24 18:11:43,687 - INFO - 表 `lyy_test` 创建成功！
+
+2025-11-25 10:37:38,624 - INFO - 程序开始了！！！！
+2025-11-25 10:41:48,695 - INFO - 程序开始了！！！！
+2025-11-25 10:42:00,786 - INFO - 开启根据excel[xls、xlsx、csv格式]快速导入mysql数据库功能
+
+2025-11-25 10:46:37,122 - INFO - 程序开始了！！！！
+2025-11-25 10:46:41,476 - INFO - 开启根据excel[xls、xlsx、csv格式]快速导入mysql数据库功能
+
+2025-11-25 10:51:36,417 - INFO - 程序开始了！！！！
+2025-11-25 10:52:36,379 - INFO - 程序开始了！！！！
+2025-11-25 10:52:39,960 - INFO - 开启根据excel[xls、xlsx、csv格式]快速按逗号切割列分行功能
+
+2025-11-25 10:52:53,831 - INFO - ☆ 您选择的文件是: D:\2025\AI\exe\migration_tools\import_excel\R2.2 R2.3 One Product list (10).xlsx
+
+2025-11-25 10:53:33,126 - INFO - 成功加载工作表: One_Comm_App_Source_Ele
+
+2025-11-25 11:09:15,718 - INFO - 程序开始了！！！！
+2025-11-25 11:09:19,498 - INFO - 开启根据excel[xls、xlsx、csv格式]快速按逗号切割列分行功能
+
+2025-11-25 11:09:28,835 - INFO - ☆ 您选择的文件是: D:\2025\AI\exe\migration_tools\import_excel\R2.2 R2.3 One Product list (10).xlsx
+
+2025-11-25 11:09:39,037 - ERROR - 无法加载文件数据，请检查文件格式或内容。
+
+2025-11-25 11:10:05,535 - INFO - 成功加载工作表: One_Comm_App_Source_Ele
+
+2025-11-25 11:22:59,739 - INFO - 数据加载成功！
+
+2025-11-25 11:22:59,840 - INFO - 可用列列表:
+2025-11-25 11:22:59,840 - INFO - 1. LOB
+(Broadband/ Fixed Line/  Mobile/  TV)
+2025-11-25 11:22:59,840 - INFO - 2. Product Family
+2025-11-25 11:22:59,840 - INFO - 3. Product Type
+2025-11-25 11:22:59,840 - INFO - 4. Product Sub-type
+2025-11-25 11:22:59,840 - INFO - 5. Product Mode
+(Main/Additional/Group)
+2025-11-25 11:22:59,840 - INFO - 6. Unnamed: 5
+2025-11-25 11:22:59,840 - INFO - 7. TP/DAT
+2025-11-25 11:22:59,840 - INFO - 8. Product Code
+2025-11-25 11:22:59,840 - INFO - 9. Product Name
+2025-11-25 11:22:59,840 - INFO - 10. Role for remark only
+2025-11-25 11:22:59,840 - INFO - 11. Service provision(SLA)
+2025-11-25 11:22:59,840 - INFO - 12. Service Termination(SLA)
+2025-11-25 11:22:59,840 - INFO - 13. External product name_EN
+(For Welcome Letter)
+2025-11-25 11:22:59,840 - INFO - 14. External product name_TC
+(For Welcome Letter)
+2025-11-25 11:22:59,840 - INFO - 15. Effective Start Date
+2025-11-25 11:22:59,840 - INFO - 16. Effective End Date
+2025-11-25 11:22:59,840 - INFO - 17. Package Code
+2025-11-25 11:22:59,840 - INFO - 18. Package Name
+2025-11-25 11:22:59,840 - INFO - 19. Default (IN/OUT)
+2025-11-25 11:22:59,840 - INFO - 20. Mandatory (Y/N)
+2025-11-25 11:22:59,840 - INFO - 21. Element- Min
+2025-11-25 11:22:59,840 - INFO - 22. Element- Max
+2025-11-25 11:22:59,840 - INFO - 23. Effective Start Date.1
+2025-11-25 11:22:59,840 - INFO - 24. Effective End Date.1
+2025-11-25 11:22:59,840 - INFO - 25. Element Type
+(Pricing / Service)
+2025-11-25 11:22:59,840 - INFO - 26. Pricing Element Code
+2025-11-25 11:22:59,840 - INFO - 27. Bundle / single pricing
+2025-11-25 11:22:59,840 - INFO - 28. Pricing Element Name
+2025-11-25 11:22:59,840 - INFO - 29. Pricing Type
+(MRC/Rebate/OTC/Usage)
+2025-11-25 11:22:59,840 - INFO - 30. Related service
+2025-11-25 11:22:59,840 - INFO - 31. Related MRC (for rebate only)
+2025-11-25 11:22:59,840 - INFO - 32. Amount
+2025-11-25 11:22:59,840 - INFO - 33. $0 display flag (Y/N)
+2025-11-25 11:22:59,840 - INFO - 34. Allow multiple order qty (Y/N)
+2025-11-25 11:22:59,840 - INFO - 35. Allow price override
+2025-11-25 11:22:59,840 - INFO - 36. Billing name_EN
+2025-11-25 11:22:59,840 - INFO - 37. Billing name_TC
+2025-11-25 11:22:59,840 - INFO - 38. Lowest Amount
+2025-11-25 11:22:59,840 - INFO - 39. Highest Amount
+2025-11-25 11:22:59,852 - INFO - 40. Main Price (1: main; 0: non main)
+2025-11-25 11:22:59,852 - INFO - 41. Contract period
+2025-11-25 11:22:59,852 - INFO - 42. Cost
+2025-11-25 11:22:59,852 - INFO - 43. Transfer Cost
+2025-11-25 11:22:59,852 - INFO - 44. Charge Category
+(R - Rental/
+I - IDD/
+O - OTC)
+2025-11-25 11:22:59,852 - INFO - 45. Charge Frequency (Monthly/ Yearly/ Default)
+2025-11-25 11:22:59,852 - INFO - 46. Default
+(IN/OUT)
+2025-11-25 11:22:59,854 - INFO - 47. Mandatory
+(Y/N)
+2025-11-25 11:22:59,854 - INFO - 48. Service Code (for ref)
+2025-11-25 11:22:59,854 - INFO - 49. Effective Start Date.2
+2025-11-25 11:22:59,854 - INFO - 50. Effective End Date.2
+2025-11-25 11:22:59,854 - INFO - 51. GL ID- 1 
+2025-11-25 11:22:59,854 - INFO - 52. Revenue split % - 1
+2025-11-25 11:22:59,854 - INFO - 53. GL ID- 2
+2025-11-25 11:22:59,854 - INFO - 54. Revenue split % - 2
+2025-11-25 11:22:59,854 - INFO - 55. GL ID- 3
+2025-11-25 11:22:59,854 - INFO - 56. Revenue split % - 3
+2025-11-25 11:22:59,854 - INFO - 57. Penalty Type 
+(L- Listed Price;
+F- Fixed Amount;
+D- Discounted Price;
+N/A- No Penalty)
+2025-11-25 11:22:59,854 - INFO - 58. Penalty GL ID (provide by CAP)
+2025-11-25 11:22:59,854 - INFO - 59. Service Element  Code
+2025-11-25 11:22:59,854 - INFO - 60. Service Element Name
+2025-11-25 11:22:59,854 - INFO - 61. PSEF
+2025-11-25 11:22:59,854 - INFO - 62. Item Code
+2025-11-25 11:22:59,854 - INFO - 63. Main Service (Y/N)
+2025-11-25 11:22:59,854 - INFO - 64. Default
+(IN/OUT).1
+2025-11-25 11:22:59,854 - INFO - 65. Mandatory
+(Y / N)
+2025-11-25 11:22:59,854 - INFO - 66. Code Type
+(S - Service/
+E - Equipment/
+F - Feature/
+I- Item code
+P - Package)
+2025-11-25 11:22:59,854 - INFO - 67. Field job required
+(Y / N/ N/A)
+2025-11-25 11:22:59,854 - INFO - 68. Effective Start Date.3
+2025-11-25 11:22:59,854 - INFO - 69. Effective End Date.3
+2025-11-25 11:22:59,854 - INFO - 70. Hidden Service from order
+2025-11-25 11:22:59,854 - INFO - 71. Related service to NOSS
+2025-11-25 11:22:59,854 - INFO - 72. 刪除項目Delete
+2025-11-25 11:22:59,854 - INFO - 73. Version
+2025-11-25 11:22:59,854 - INFO - 74. Sequence for package- element
+2025-11-25 11:22:59,854 - INFO - 75. Last update Date
+2025-11-25 11:23:13,411 - INFO - 程序开始了！！！！
+2025-11-25 11:23:18,080 - INFO - 开启根据excel[xls、xlsx、csv格式]快速按逗号切割列分行功能
+
+2025-11-25 11:23:23,503 - INFO - ☆ 您选择的文件是: D:\2025\AI\exe\migration_tools\import_excel\R2.2 R2.3 One Product list (10).xlsx
+
+2025-11-25 11:23:33,076 - INFO - 可用的工作表:
+2025-11-25 11:23:33,076 - INFO - 1. Summary(Archived)
+2025-11-25 11:23:33,076 - INFO - 2. ONE Update
+2025-11-25 11:23:33,076 - INFO - 3. ONE Question
+2025-11-25 11:23:33,076 - INFO - 4. Para review table
+2025-11-25 11:23:33,076 - INFO - 5. PSEF ref
+2025-11-25 11:23:33,076 - INFO - 6. Summary (Product)
+2025-11-25 11:23:33,090 - INFO - 7. Summary (Joan)
+2025-11-25 11:23:33,090 - INFO - 8. SF
+2025-11-25 11:23:33,090 - INFO - 9. Archived_Source_Ele
+2025-11-25 11:23:33,090 - INFO - 10. Product Status
+2025-11-25 11:23:33,090 - INFO - 11. Archived_Summary
+2025-11-25 11:23:33,090 - INFO - 12. OLD_Source_Service attr
+2025-11-25 11:23:33,090 - INFO - 13. Exclusion
+2025-11-25 11:23:33,090 - INFO - 14. Source_Pricing attr_bak
+2025-11-25 11:23:33,090 - INFO - 15. Source_Pricing attr
+2025-11-25 11:23:33,090 - INFO - 16. Source_ Product attr
+2025-11-25 11:23:33,090 - INFO - 17. Source_Ele_bak
+2025-11-25 11:23:33,090 - INFO - 18. Pricing (ref)
+2025-11-25 11:23:33,092 - INFO - 19. ONE User Comment
+2025-11-25 11:23:33,092 - INFO - 20. 老Source_Ele(BBI2.1)-SEP30_1222p
+2025-11-25 11:23:33,092 - INFO - 21. 老Source Ele(BBI2.2)-SEP30_1231p
+2025-11-25 11:23:33,092 - INFO - 22. 老Source_Ele_ONE(BBI)-SEP16_945a
+2025-11-25 11:23:33,092 - INFO - 23. 老_Source_Ele_ONE(BBI)
+2025-11-25 11:23:33,092 - INFO - 24. CRM_Product_code
+2025-11-25 11:23:33,092 - INFO - 25. Source_Ele_ONE (UCS Pt)
+2025-11-25 11:23:33,092 - INFO - 26. Source_Ele_ONE (For Migrate)
+2025-11-25 11:23:33,092 - INFO - 27. Voice Lines (summary)
+2025-11-25 11:23:33,092 - INFO - 28. Source_Ele_ONE
+2025-11-25 11:23:33,092 - INFO - 29. Source_Attribute_ONE
+2025-11-25 11:23:33,092 - INFO - 30. One_Comm_App_Source_Ele
+2025-11-25 11:23:33,092 - INFO - 31. ONE Premium (SME solution)-link
+2025-11-25 11:23:33,092 - INFO - 32. Equipment_Attribute_ONE
+2025-11-25 11:23:33,092 - INFO - 33. Amount_Attribute_ONE
+2025-11-25 11:23:33,092 - INFO - 34. 老 Equipment Mapping Table (BBI)
+2025-11-25 11:23:33,092 - INFO - 35. Exclusion & Pre_req_ONE
+2025-11-25 11:23:33,092 - INFO - 36. Product Relationship_ONE
+2025-11-25 11:23:33,092 - INFO - 37. Product_Display_Sequence
+2025-11-25 11:23:33,092 - INFO - 38. Source_Ele_EC (link)
+2025-11-25 11:23:33,092 - INFO - 39. Source_Ele_EC (2)
+2025-11-25 11:23:33,092 - INFO - 40. Source_Ele_EC (3)
+2025-11-25 11:23:33,092 - INFO - 41. Additional Prod
+2025-11-25 11:23:33,092 - INFO - 42. EC Group Attribute
+2025-11-25 11:23:33,092 - INFO - 43. Guideline
+2025-11-25 11:23:33,092 - INFO - 44. Price table
+2025-11-25 11:23:33,092 - INFO - 45. Additional Product_EC ONE
+2025-11-25 11:23:33,092 - INFO - 46. Sheet1
+2025-11-25 11:23:33,092 - INFO - 47. Sheet3
+2025-11-25 11:23:33,092 - INFO - 48. 包id
+2025-11-25 11:23:33,092 - INFO - 49. 产品id
+2025-11-25 11:23:33,092 - INFO - 50. 资费id
+2025-11-25 11:23:33,092 - INFO - 51. 服务id
+2025-11-25 11:23:47,597 - INFO - 已选择工作表: One_Comm_App_Source_Ele
+2025-11-25 11:23:49,584 - INFO - 数据加载成功！
+
+2025-11-25 11:23:52,753 - INFO - 可用列列表:
+2025-11-25 11:23:52,753 - INFO - 1. LOB
+(Broadband/ Fixed Line/  Mobile/  TV)
+2025-11-25 11:23:52,753 - INFO - 2. Product Family
+2025-11-25 11:23:52,753 - INFO - 3. Product Type
+2025-11-25 11:23:52,753 - INFO - 4. Product Sub-type
+2025-11-25 11:23:52,753 - INFO - 5. Product Mode
+(Main/Additional/Group)
+2025-11-25 11:23:52,753 - INFO - 6. Unnamed: 5
+2025-11-25 11:23:52,753 - INFO - 7. TP/DAT
+2025-11-25 11:23:52,755 - INFO - 8. Product Code
+2025-11-25 11:23:52,755 - INFO - 9. Product Name
+2025-11-25 11:23:52,755 - INFO - 10. Role for remark only
+2025-11-25 11:23:52,755 - INFO - 11. Service provision(SLA)
+2025-11-25 11:23:52,755 - INFO - 12. Service Termination(SLA)
+2025-11-25 11:23:52,755 - INFO - 13. External product name_EN
+(For Welcome Letter)
+2025-11-25 11:23:52,755 - INFO - 14. External product name_TC
+(For Welcome Letter)
+2025-11-25 11:23:52,755 - INFO - 15. Effective Start Date
+2025-11-25 11:23:52,755 - INFO - 16. Effective End Date
+2025-11-25 11:23:52,755 - INFO - 17. Package Code
+2025-11-25 11:23:52,755 - INFO - 18. Package Name
+2025-11-25 11:23:52,755 - INFO - 19. Default (IN/OUT)
+2025-11-25 11:23:52,757 - INFO - 20. Mandatory (Y/N)
+2025-11-25 11:23:52,757 - INFO - 21. Element- Min
+2025-11-25 11:23:52,757 - INFO - 22. Element- Max
+2025-11-25 11:23:52,757 - INFO - 23. Effective Start Date.1
+2025-11-25 11:23:52,757 - INFO - 24. Effective End Date.1
+2025-11-25 11:23:52,757 - INFO - 25. Element Type
+(Pricing / Service)
+2025-11-25 11:23:52,757 - INFO - 26. Pricing Element Code
+2025-11-25 11:23:52,757 - INFO - 27. Bundle / single pricing
+2025-11-25 11:23:52,757 - INFO - 28. Pricing Element Name
+2025-11-25 11:23:52,757 - INFO - 29. Pricing Type
+(MRC/Rebate/OTC/Usage)
+2025-11-25 11:23:52,757 - INFO - 30. Related service
+2025-11-25 11:23:52,757 - INFO - 31. Related MRC (for rebate only)
+2025-11-25 11:23:52,757 - INFO - 32. Amount
+2025-11-25 11:23:52,759 - INFO - 33. $0 display flag (Y/N)
+2025-11-25 11:23:52,759 - INFO - 34. Allow multiple order qty (Y/N)
+2025-11-25 11:23:52,759 - INFO - 35. Allow price override
+2025-11-25 11:23:52,759 - INFO - 36. Billing name_EN
+2025-11-25 11:23:52,759 - INFO - 37. Billing name_TC
+2025-11-25 11:23:52,759 - INFO - 38. Lowest Amount
+2025-11-25 11:23:52,759 - INFO - 39. Highest Amount
+2025-11-25 11:23:52,760 - INFO - 40. Main Price (1: main; 0: non main)
+2025-11-25 11:23:52,760 - INFO - 41. Contract period
+2025-11-25 11:23:52,760 - INFO - 42. Cost
+2025-11-25 11:23:52,761 - INFO - 43. Transfer Cost
+2025-11-25 11:23:52,761 - INFO - 44. Charge Category
+(R - Rental/
+I - IDD/
+O - OTC)
+2025-11-25 11:23:52,761 - INFO - 45. Charge Frequency (Monthly/ Yearly/ Default)
+2025-11-25 11:23:52,761 - INFO - 46. Default
+(IN/OUT)
+2025-11-25 11:23:52,761 - INFO - 47. Mandatory
+(Y/N)
+2025-11-25 11:23:52,761 - INFO - 48. Service Code (for ref)
+2025-11-25 11:23:52,761 - INFO - 49. Effective Start Date.2
+2025-11-25 11:23:52,761 - INFO - 50. Effective End Date.2
+2025-11-25 11:23:52,761 - INFO - 51. GL ID- 1 
+2025-11-25 11:23:52,761 - INFO - 52. Revenue split % - 1
+2025-11-25 11:23:52,761 - INFO - 53. GL ID- 2
+2025-11-25 11:23:52,761 - INFO - 54. Revenue split % - 2
+2025-11-25 11:23:52,761 - INFO - 55. GL ID- 3
+2025-11-25 11:23:52,763 - INFO - 56. Revenue split % - 3
+2025-11-25 11:23:52,763 - INFO - 57. Penalty Type 
+(L- Listed Price;
+F- Fixed Amount;
+D- Discounted Price;
+N/A- No Penalty)
+2025-11-25 11:23:52,763 - INFO - 58. Penalty GL ID (provide by CAP)
+2025-11-25 11:23:52,763 - INFO - 59. Service Element  Code
+2025-11-25 11:23:52,763 - INFO - 60. Service Element Name
+2025-11-25 11:23:52,763 - INFO - 61. PSEF
+2025-11-25 11:23:52,763 - INFO - 62. Item Code
+2025-11-25 11:23:52,763 - INFO - 63. Main Service (Y/N)
+2025-11-25 11:23:52,763 - INFO - 64. Default
+(IN/OUT).1
+2025-11-25 11:23:52,763 - INFO - 65. Mandatory
+(Y / N)
+2025-11-25 11:23:52,763 - INFO - 66. Code Type
+(S - Service/
+E - Equipment/
+F - Feature/
+I- Item code
+P - Package)
+2025-11-25 11:23:52,763 - INFO - 67. Field job required
+(Y / N/ N/A)
+2025-11-25 11:23:52,766 - INFO - 68. Effective Start Date.3
+2025-11-25 11:23:52,766 - INFO - 69. Effective End Date.3
+2025-11-25 11:23:52,766 - INFO - 70. Hidden Service from order
+2025-11-25 11:23:52,766 - INFO - 71. Related service to NOSS
+2025-11-25 11:23:52,766 - INFO - 72. 刪除項目Delete
+2025-11-25 11:23:52,766 - INFO - 73. Version
+2025-11-25 11:23:52,766 - INFO - 74. Sequence for package- element
+2025-11-25 11:23:52,766 - INFO - 75. Last update Date
+2025-11-25 11:24:36,520 - INFO - 已选择列: Product Code
+2025-11-25 11:24:38,873 - INFO - 处理完成！已将结果保存到 D:\2025\AI\exe\migration_tools\import_excel\R2.2 R2.3 One Product list (10)_One_Comm_App_Source_Ele_split.xlsx
+2025-11-25 11:36:46,954 - INFO - 程序开始了！！！！
+2025-11-25 11:36:51,152 - INFO - 开启根据excel[xls、xlsx、csv格式]快速按逗号切割列分行功能
+
+2025-11-25 11:37:07,080 - INFO - ☆ 您选择的文件是: D:\2025\AI\exe\migration_tools\import_excel\R2.2 R2.3 One Product list (10).xlsx
+
+2025-11-25 11:37:07,906 - INFO - 可用的工作表:
+2025-11-25 11:37:07,906 - INFO - 1. Summary(Archived)
+2025-11-25 11:37:07,906 - INFO - 2. ONE Update
+2025-11-25 11:37:07,906 - INFO - 3. ONE Question
+2025-11-25 11:37:07,906 - INFO - 4. Para review table
+2025-11-25 11:37:07,906 - INFO - 5. PSEF ref
+2025-11-25 11:37:07,906 - INFO - 6. Summary (Product)
+2025-11-25 11:37:07,906 - INFO - 7. Summary (Joan)
+2025-11-25 11:37:07,906 - INFO - 8. SF
+2025-11-25 11:37:07,906 - INFO - 9. Archived_Source_Ele
+2025-11-25 11:37:07,906 - INFO - 10. Product Status
+2025-11-25 11:37:07,906 - INFO - 11. Archived_Summary
+2025-11-25 11:37:07,906 - INFO - 12. OLD_Source_Service attr
+2025-11-25 11:37:07,906 - INFO - 13. Exclusion
+2025-11-25 11:37:07,906 - INFO - 14. Source_Pricing attr_bak
+2025-11-25 11:37:07,906 - INFO - 15. Source_Pricing attr
+2025-11-25 11:37:07,906 - INFO - 16. Source_ Product attr
+2025-11-25 11:37:07,907 - INFO - 17. Source_Ele_bak
+2025-11-25 11:37:07,907 - INFO - 18. Pricing (ref)
+2025-11-25 11:37:07,907 - INFO - 19. ONE User Comment
+2025-11-25 11:37:07,907 - INFO - 20. 老Source_Ele(BBI2.1)-SEP30_1222p
+2025-11-25 11:37:07,907 - INFO - 21. 老Source Ele(BBI2.2)-SEP30_1231p
+2025-11-25 11:37:07,907 - INFO - 22. 老Source_Ele_ONE(BBI)-SEP16_945a
+2025-11-25 11:37:07,907 - INFO - 23. 老_Source_Ele_ONE(BBI)
+2025-11-25 11:37:07,907 - INFO - 24. CRM_Product_code
+2025-11-25 11:37:07,907 - INFO - 25. Source_Ele_ONE (UCS Pt)
+2025-11-25 11:37:07,907 - INFO - 26. Source_Ele_ONE (For Migrate)
+2025-11-25 11:37:07,907 - INFO - 27. Voice Lines (summary)
+2025-11-25 11:37:07,907 - INFO - 28. Source_Ele_ONE
+2025-11-25 11:37:07,907 - INFO - 29. Source_Attribute_ONE
+2025-11-25 11:37:07,907 - INFO - 30. One_Comm_App_Source_Ele
+2025-11-25 11:37:07,907 - INFO - 31. ONE Premium (SME solution)-link
+2025-11-25 11:37:07,907 - INFO - 32. Equipment_Attribute_ONE
+2025-11-25 11:37:07,907 - INFO - 33. Amount_Attribute_ONE
+2025-11-25 11:37:07,907 - INFO - 34. 老 Equipment Mapping Table (BBI)
+2025-11-25 11:37:07,907 - INFO - 35. Exclusion & Pre_req_ONE
+2025-11-25 11:37:07,907 - INFO - 36. Product Relationship_ONE
+2025-11-25 11:37:07,907 - INFO - 37. Product_Display_Sequence
+2025-11-25 11:37:07,907 - INFO - 38. Source_Ele_EC (link)
+2025-11-25 11:37:07,907 - INFO - 39. Source_Ele_EC (2)
+2025-11-25 11:37:07,907 - INFO - 40. Source_Ele_EC (3)
+2025-11-25 11:37:07,907 - INFO - 41. Additional Prod
+2025-11-25 11:37:07,907 - INFO - 42. EC Group Attribute
+2025-11-25 11:37:07,907 - INFO - 43. Guideline
+2025-11-25 11:37:07,907 - INFO - 44. Price table
+2025-11-25 11:37:07,907 - INFO - 45. Additional Product_EC ONE
+2025-11-25 11:37:07,907 - INFO - 46. Sheet1
+2025-11-25 11:37:07,907 - INFO - 47. Sheet3
+2025-11-25 11:37:07,907 - INFO - 48. 包id
+2025-11-25 11:37:07,908 - INFO - 49. 产品id
+2025-11-25 11:37:07,908 - INFO - 50. 资费id
+2025-11-25 11:37:07,908 - INFO - 51. 服务id
+2025-11-25 11:38:32,752 - ERROR - 请输入有效的数字。
+2025-11-25 11:38:32,752 - ERROR - 请输入有效的数字。
+2025-11-25 14:25:34,444 - INFO - 程序开始了！！！！
+2025-11-25 14:27:11,827 - INFO - 程序开始了！！！！
+2025-11-25 14:27:20,195 - INFO - 启动“删除带有删除线的行”功能...
+2025-11-25 14:27:27,664 - INFO - ☆ 您选择的文件是: D:\2025\AI\exe\migration_tools\import_excel\UCS Mapping Table (20251121) (1).xlsx
+
+2025-11-25 14:27:29,407 - INFO - 可用的工作表:
+2025-11-25 14:27:29,407 - INFO - 1. Sheet1
+2025-11-25 14:27:29,408 - INFO - 2. Sheet2
+2025-11-25 14:27:29,408 - INFO - 3. Main
+2025-11-25 14:27:29,408 - INFO - 4. Sheet3
+2025-11-25 14:27:29,408 - INFO - 5. Term_Plan
+2025-11-25 14:27:29,408 - INFO - 6. Feature_In_package
+2025-11-25 14:27:29,408 - INFO - 7. white list
+2025-11-25 14:27:29,409 - INFO - 8. 5 profo
+2025-11-25 14:27:29,409 - INFO - 9. Sheet7
+2025-11-25 14:27:29,409 - INFO - 10. Sheet6
+2025-11-25 14:27:29,409 - INFO - 11. add in list
+2025-11-25 14:27:29,409 - INFO - 12. Sheet4
+2025-11-25 14:27:29,409 - INFO - 13. Sheet5
+2025-11-25 14:27:29,410 - INFO - 14. draft
+2025-11-25 14:27:29,410 - INFO - 15. Main_Summary
+2025-11-25 14:27:29,410 - INFO - 16. Term_Plan Old
+2025-11-25 14:27:29,410 - INFO - 17. Fallout_Packages
+2025-11-25 14:27:29,410 - INFO - 18. Exclusion_Codes
+2025-11-25 14:27:29,410 - INFO - 19. Main_Manual_Map
+2025-11-25 14:27:29,410 - INFO - 20. term_and_feature
+2025-11-25 14:27:29,411 - INFO - 21. Prerun TP Mapping
+2025-11-25 14:27:29,411 - INFO - 22. TP MRC Mapping
+2025-11-25 14:27:29,411 - INFO - 23. Package Mapping
+2025-11-25 14:27:29,411 - INFO - 24. Metaswitch
+2025-11-25 14:27:57,441 - INFO - 已选择工作表: Main, Term_Plan, Feature_In_package
+2025-11-25 14:27:57,441 - INFO - 准备处理文件，输出将保存到: D:\2025\AI\exe\migration_tools\import_excel\UCS Mapping Table (20251121) (1)_cleaned_20251125142757.xlsx
+2025-11-25 14:28:54,001 - INFO - --- 正在处理工作表: Main ---
+2025-11-25 14:28:56,395 - INFO - 在 'Main' 中删除了 4 行。
+2025-11-25 14:28:56,869 - INFO - --- 正在处理工作表: Term_Plan ---
+2025-11-25 14:28:59,419 - INFO - 在 'Term_Plan' 中没有找到需要删除的行。
+2025-11-25 14:28:59,622 - INFO - --- 正在处理工作表: Feature_In_package ---
+2025-11-25 14:29:02,368 - INFO - 在 'Feature_In_package' 中没有找到需要删除的行。
+2025-11-25 14:29:03,127 - INFO - --- 正在复制未处理的工作表: Sheet1 ---
+2025-11-25 14:29:05,256 - INFO - --- 正在复制未处理的工作表: Sheet2 ---
+2025-11-25 14:29:07,138 - INFO - --- 正在复制未处理的工作表: Sheet3 ---
+2025-11-25 14:29:09,101 - INFO - --- 正在复制未处理的工作表: white list ---
+2025-11-25 14:29:11,083 - INFO - --- 正在复制未处理的工作表: 5 profo ---
+2025-11-25 14:29:13,237 - INFO - --- 正在复制未处理的工作表: Sheet7 ---
+2025-11-25 14:29:15,074 - INFO - --- 正在复制未处理的工作表: Sheet6 ---
+2025-11-25 14:29:17,379 - INFO - --- 正在复制未处理的工作表: add in list ---
+2025-11-25 14:30:20,047 - INFO - --- 正在复制未处理的工作表: Sheet4 ---
+2025-11-25 14:30:23,465 - INFO - --- 正在复制未处理的工作表: Sheet5 ---
+2025-11-25 14:30:27,109 - INFO - --- 正在复制未处理的工作表: draft ---
+2025-11-25 14:31:14,439 - INFO - --- 正在复制未处理的工作表: Main_Summary ---
+2025-11-25 14:31:16,068 - INFO - --- 正在复制未处理的工作表: Term_Plan Old ---
+2025-11-25 14:31:18,024 - INFO - --- 正在复制未处理的工作表: Fallout_Packages ---
+2025-11-25 14:31:19,737 - INFO - --- 正在复制未处理的工作表: Exclusion_Codes ---
+2025-11-25 14:31:21,382 - INFO - --- 正在复制未处理的工作表: Main_Manual_Map ---
+2025-11-25 14:31:23,211 - INFO - --- 正在复制未处理的工作表: term_and_feature ---
+2025-11-25 14:31:25,033 - INFO - --- 正在复制未处理的工作表: Prerun TP Mapping ---
+2025-11-25 14:31:26,652 - INFO - --- 正在复制未处理的工作表: TP MRC Mapping ---
+2025-11-25 14:31:35,111 - INFO - --- 正在复制未处理的工作表: Package Mapping ---
+2025-11-25 14:31:49,786 - INFO - --- 正在复制未处理的工作表: Metaswitch ---
+2025-11-25 14:40:52,544 - INFO - 程序开始了！！！！
+2025-11-25 14:40:56,787 - INFO - 启动“删除带有删除线的行”功能...
+2025-11-25 14:41:02,775 - INFO - ☆ 您选择的文件是: D:\2025\AI\exe\migration_tools\import_excel\UCS Mapping Table (20251121) (1).xlsx
+
+2025-11-25 14:41:04,501 - INFO - 可用的工作表:
+2025-11-25 14:41:04,501 - INFO - 1. Sheet1
+2025-11-25 14:41:04,501 - INFO - 2. Sheet2
+2025-11-25 14:41:04,501 - INFO - 3. Main
+2025-11-25 14:41:04,501 - INFO - 4. Sheet3
+2025-11-25 14:41:04,501 - INFO - 5. Term_Plan
+2025-11-25 14:41:04,501 - INFO - 6. Feature_In_package
+2025-11-25 14:41:04,501 - INFO - 7. white list
+2025-11-25 14:41:04,501 - INFO - 8. 5 profo
+2025-11-25 14:41:04,501 - INFO - 9. Sheet7
+2025-11-25 14:41:04,501 - INFO - 10. Sheet6
+2025-11-25 14:41:04,501 - INFO - 11. add in list
+2025-11-25 14:41:04,501 - INFO - 12. Sheet4
+2025-11-25 14:41:04,501 - INFO - 13. Sheet5
+2025-11-25 14:41:04,501 - INFO - 14. draft
+2025-11-25 14:41:04,501 - INFO - 15. Main_Summary
+2025-11-25 14:41:04,501 - INFO - 16. Term_Plan Old
+2025-11-25 14:41:04,501 - INFO - 17. Fallout_Packages
+2025-11-25 14:41:04,501 - INFO - 18. Exclusion_Codes
+2025-11-25 14:41:04,501 - INFO - 19. Main_Manual_Map
+2025-11-25 14:41:04,501 - INFO - 20. term_and_feature
+2025-11-25 14:41:04,501 - INFO - 21. Prerun TP Mapping
+2025-11-25 14:41:04,501 - INFO - 22. TP MRC Mapping
+2025-11-25 14:41:04,501 - INFO - 23. Package Mapping
+2025-11-25 14:41:04,501 - INFO - 24. Metaswitch
+2025-11-25 14:41:21,654 - INFO - 已选择工作表: Main, Term_Plan, Feature_In_package
+2025-11-25 14:41:21,654 - INFO - 准备处理文件，输出将保存到: D:\2025\AI\exe\migration_tools\import_excel\UCS Mapping Table (20251121) (1)_cleaned_20251125144121.xlsx
+2025-11-25 14:42:14,604 - INFO - --- 正在处理工作表: Main ---
+2025-11-25 14:42:16,414 - INFO - 在 'Main' 中删除了 4 行。
+2025-11-25 14:42:16,989 - INFO - --- 正在处理工作表: Term_Plan ---
+2025-11-25 14:42:18,784 - INFO - 在 'Term_Plan' 中没有找到需要删除的行。
+2025-11-25 14:42:18,974 - INFO - --- 正在处理工作表: Feature_In_package ---
+2025-11-25 14:42:21,135 - INFO - 在 'Feature_In_package' 中没有找到需要删除的行。
+2025-11-25 14:42:23,548 - INFO - 处理完成！已将结果保存到 D:\2025\AI\exe\migration_tools\import_excel\UCS Mapping Table (20251121) (1)_cleaned_20251125144121.xlsx
+2025-11-28 16:53:47,733 - INFO - 程序开始了！！！！
+2025-11-28 16:54:37,719 - INFO - 执行mysql批量执行功能板块
+
+2025-11-28 16:54:41,717 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-11-28 16:54:41,839 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-11-28 16:55:58,339 - INFO - 更新可执行状态成功
+2025-11-28 16:55:58,350 - INFO - 根据执行标识'mysql_batch_execute'查询不到待执行的数据.
+
+2025-11-28 16:56:55,272 - INFO - 执行mysql批量执行功能板块
+
+2025-11-28 16:56:58,959 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-11-28 16:56:59,055 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-11-28 16:57:19,933 - INFO - 更新可执行状态成功
+2025-11-28 16:57:19,953 - INFO - 根据执行标识'pr_product_model_ec_one_ucs'查询到【9】记录. 
+
+2025-11-28 16:58:39,801 - INFO - [ID:6000][顺序号6000]:执行语句为--> truncate dataeconeucs.pr_econe_migration_product_mapping
+2025-11-28 16:58:40,432 - INFO - Execution succeeded for UNIQUE_ID 6000.
+2025-11-28 16:58:43,032 - INFO - [ID:6001][顺序号6001]:执行语句为--> INSERT INTO dataeconeucs.pr_econe_migration_product_mapping (Version, Product_ID, Product_Name, Package_ID, Package_Name, Element_ID, Element_Name, Element_Type, PSEF_Code, PSEF_Description,
+EN_Bill_description, CN_Bill_description, EN_Bill_description1, CN_Bill_description1, Related_MRC_Psef, Related_PAK_Psef,MRC,flag)
+select distinct Version, Product_ID, Product_Name, Package_ID, Package_Name, Element_ID, Element_Name, Element_Type, PSEF_Code, PSEF_Description,
+EN_Bill_description, CN_Bill_description, EN_Bill_description1, CN_Bill_description1, Related_MRC_Psef, Related_PAK_Psef,MRC, flag
+from(
+select Version, Product_ID, Product_Name, Package_ID, Package_Name, Element_ID, Element_Name, Element_Type, PSEF_Code, PSEF_Description,
+'' EN_Bill_description,''  CN_Bill_description,''  EN_Bill_description1,''  CN_Bill_description1 ,'' Related_MRC_Psef,'' Related_PAK_Psef,
+(case when MRC is null then 0 when MRC = '' then 0 else MRC end) as MRC,'main' `flag`
+FROM dataeconeucs.pr_econe_migration_product_model_main
+where (Product_ID is not null and Product_ID <>'') and (Product_Name is not null and Product_Name <>'') and (Package_ID is not null and Package_ID <>'')
+and (Package_Name is not null and Package_Name <>'') and  (Element_ID is not null and Element_ID <>'') and (Element_Name is not null and Element_Name <>'')
+union all
+select Version, Product_ID, Product_Name, Package_ID, Package_Name, Element_ID, Element_Name, Element_Type, TermPlanCode as PSEF_Code, TermPlanCode_DESC as  PSEF_Description,
+'' EN_Bill_description, '' CN_Bill_description, '' EN_Bill_description1, '' CN_Bill_description1 ,Charge_Code Related_MRC_Psef,'' Related_PAK_Psef,
+(case when MRC is null then 0 when MRC = '' then 0 else MRC end) as MRC,'term_plan' `flag`
+FROM dataeconeucs.pr_econe_migration_product_model_term_plan
+where (Product_ID is not null and Product_ID <>'') and (Product_Name is not null and Product_Name <>'') and (Package_ID is not null and Package_ID <>'')
+and (Package_Name is not null and Package_Name <>'') and  (Element_ID is not null and Element_ID <>'') and (Element_Name is not null and Element_Name <>'')
+union all
+select '' Version, Product_ID, Product_Name, Package_ID, Package_Name, Element_ID, Element_Name, Element_Type, SEF_CD as PSEF_Code, SEF_CD_Description as PSEF_Description,
+''  EN_Bill_description, ''  CN_Bill_description, ''  EN_Bill_description1, ''  CN_Bill_description1 ,'' Related_MRC_Psef,PSEF_code as Related_PAK_Psef,0 as MRC,'feature_in_package' `flag`
+FROM dataeconeucs.pr_econe_migration_product_model_feature_in_package
+where (Product_ID is not null and Product_ID <>'') and (Product_Name is not null and Product_Name <>'') and (Package_ID is not null and Package_ID <>'')
+and (Package_Name is not null and Package_Name <>'') and  (Element_ID is not null and Element_ID <>'') and (Element_Name is not null and Element_Name <>'')
+) temp
+2025-11-28 16:58:46,124 - INFO - Execution succeeded for UNIQUE_ID 6001.
+2025-11-28 16:58:47,968 - INFO - [ID:6002][顺序号6002]:执行语句为--> truncate dataeconeucs.pr_econe_migration_product_uat
+2025-11-28 16:58:48,051 - INFO - Execution succeeded for UNIQUE_ID 6002.
+2025-11-28 16:58:48,051 - INFO - [ID:6003][顺序号6003]:执行语句为--> INSERT INTO dataeconeucs.pr_econe_migration_product_uat (`Action`,LOB,Product_Sub_type,Product_Family,Product_Type,Product_Mode,TPDAT,Product_Code,Product_Name,Service_provision,Service_Termination,External_product_name_EN,
+External_product_name_TC,Effective_Start_Date,Effective_End_Date,Package_Code,Package_Name,`Default`,Mandatory,Element_Min,Element_Max,Effective_Start_Date1,Effective_End_Date1,Element_Type,
+Pricing_Element_Code,Bundle_single_pricing,Pricing_Element_Name,Pricing_Type,Related_service,Related_MRC,Amount,`$0_display_flag`,Allow_multiple_order_qty,Allow_price_override,Billing_name_EN,
+Billing_name_TC,Lowest_Amount,Highest_Amount,Rules,Main_Price,Contract_period,Cost,Transfer_Cost,Charge_Category,Charge_Frequency,Default_90,Mandatory_90,Service_Code,Effective_Start_Date2,
+Effective_End_Date2,GL_ID_1,Revenue_split_1,GL_ID_2,Revenue_split_2,GL_ID_3,Revenue_split_3,Penalty_Type,Penalty_GL_ID,Service_Element_Code,Service_Element_Name,PSEF,P_Code,Main_Service,Default1,
+Mandatory_91,Code_Type,Field_job_required,Effective_Start_Date3,Effective_End_Date3,Source)
+select
+ '' as `Action`,LOB,Product_Sub_type,Product_Family,Product_Type,Product_Mode,TPDAT,Product_Code,Product_Name,'' Service_provision,'' Service_Termination,'' External_product_name_EN,'' External_product_name_TC,Effective_Start_Date,
+ Effective_End_Date,Package_Code,Package_Name,`Default`,Mandatory,Element_Min,Element_Max,Effective_Start_Date1,Effective_End_Date1,Element_Type,Pricing_Element_Code,Bundle_single_pricing,Pricing_Element_Name,
+ Pricing_Type,Related_service,Related_MRC,Amount,`$0_display_flag`,Allow_multiple_order_qty,Allow_price_override,Billing_name_EN,Billing_name_TC,Lowest_Amount,Highest_Amount,'' Rules,Main_Price,Contract_period,Cost,
+ Transfer_Cost,Charge_Category,Charge_Frequency,Default_90,Mandatory_90,Service_Code,Effective_Start_Date2,Effective_End_Date_90,GL_ID_1,Revenue_split_1,GL_ID_2,Revenue_split_2,GL_ID_3,Revenue_split_3,Penalty_Type,
+ Penalty_GL_ID,Service_Element_Code,Service_Element_Name,PSEF, '' P_Code,Main_Service,Default1,Mandatory_91,Code_Type,Field_job_required, '' Effective_Start_Date3,'' Effective_End_Date3, 'one' Source from product_source_eLe_one
+ where (Element_Type ='Pricing' and Pricing_Element_Code <>'') or (Element_Type ='Service' and Service_Element_Code <>'' and Service_Element_Code not like '56%') 
+union all
+select '' as Action,oca.LOB,oca.Product_Sub_type,oca.Product_Family,oca.Product_Type,oca.Product_Mode,oca.TPDAT,oca.Product_Code,p.Product_Name,oca.Service_provision,oca.Service_Termination,oca.External_product_name_EN,
+oca.External_product_name_TC,oca.Effective_Start_Date,oca.Effective_End_Date,oca.Package_Code,oca.Package_Name,oca.Default,oca.Mandatory,oca.Element_Min,oca.Element_Max,oca.Effective_Start_Date1,oca.Effective_End_Date1,
+oca.Element_Type,oca.Pricing_Element_Code,oca.Bundle_single_pricing,oca.Pricing_Element_Name,oca.Pricing_Type,oca.Related_service,oca.Related_MRC,oca.Amount,oca.$0_display_flag,oca.Allow_multiple_order_qty,
+oca.Allow_price_override,oca.Billing_name_EN,oca.Billing_name_TC,oca.Lowest_Amount,oca.Highest_Amount,'' as Rules,oca.Main_Price,oca.Contract_period,oca.Cost,oca.Transfer_Cost,oca.Charge_Category,oca.Charge_Frequency,
+oca.Default_90,oca.Mandatory_90,oca.Service_Code,oca.Effective_Start_Date2,oca.Effective_End_Date2,oca.GL_ID_1,oca.Revenue_split_1,oca.GL_ID_2,oca.Revenue_split_2,oca.GL_ID_3,oca.Revenue_split_3,oca.Penalty_Type,
+oca.Penalty_GL_ID,oca.Service_Element_Code,oca.Service_Element_Name,oca.PSEF,'' as P_Code,oca.Main_Service,oca.Default1,oca.Mandatory_91,oca.Code_Type,oca.Field_job_required,oca.Effective_Start_Date3,oca.Effective_End_Date3, 
+'comm' as Source from One_Comm_App_Source_Ele oca 
+join (select Product_Code,Product_Name,Package_Code,Package_Name from product_source_eLe_one group by  Product_Code,Product_Name,Package_Code,Package_Name) p 
+on oca.Package_Code = p.Package_Code and p.Product_Code = oca.Product_Code and p.Package_Name = oca.Package_Name
+union all
+select '' as `Action`,LOB,null Product_Sub_type,Product_Family,Product_Type,Product_Mode,TPDAT,`Product_Code<Added_for_ONE>`,`Product_Name<Added_for_ONE>`,Service_provision,Service_Termination,`External_product_name_EN<Added_for_ONE>`,External_product_name_TC,Effective_Start_Date,
+Effective_End_Date,`Package_Code<Added_for_ONE>`,`Package_Name<Added_for_ONE>`,`Default`,Mandatory,Element_Min,Element_Max,Effective_Start_Date1,Effective_End_Date1,Element_Type,`Pricing_Element_Code<Added_for_ONE>`,Bundle_single_pricing,`Pricing_Element_Name<Added_for_ONE>`,
+Pricing_Type,Related_service,Related_MRC,Amount,`$0_display_flag`,Allow_multiple_order_qty,Allow_price_override,Billing_name_EN,Billing_name_TC,Lowest_Amount,Highest_Amount, Rules,Main_Price,Contract_period,Cost,
+Transfer_Cost,Charge_Category,Charge_Frequency,Default_90,Mandatory_90,null Service_Code,Effective_Start_Date2,Effective_End_Date2,`GL_ID_1_<Added_for_ONE>`,Revenue_split_1,GL_ID_2,Revenue_split_2,GL_ID_3,Revenue_split_3,Penalty_Type,
+`Penalty_GL_ID<Added_for_ONE>`,Service_Element_Code1,Service_Element_Name1,PSEF, P_Code,Main_Service,Default1,Mandatory_91,Code_Type,Field_job_required,Effective_Start_Date3,Effective_End_Date3,'bbi_Prem_Fix_Penalty' Source 
+from ucs_BBI_Prem_Fix_Penalty
+union all
+select '' `Action`,LOB,null Product_Sub_type,Product_Family_Cloud_China_Business_WholesalesEMS,Product_Type,Product_Mode,TPDAT,`Product_Code<Added_for_ONE>`,`Product_Name<Added_for_ONE>`,Service_provision,
+Service_Termination,External_product_name_EN,External_product_name_TC,Effective_Start_Date,Effective_End_Date,Package_Code,Package_Name,`Default`,Mandatory,Element_Min,Element_Max,Effective_Start_Date1,
+Effective_End_Date1,Element_Type,`Pricing_Element_Code<Added_for_ONE>`,Bundle_single_pricing,`Pricing_Element_Name<Added_for_ONE>`,Pricing_Type,Related_service,`Related_MRC_<Added_for_ONE>`,`Amount<Added_for_ONE>`,
+`$0_display_flag`,Allow_multiple_order_qty,Allow_price_override,Billing_name_EN,Billing_name_TC,Lowest_Amount,Highest_Amount, Rules,Main_Price,Contract_period,Cost,
+Transfer_Cost,Charge_Category,Charge_Frequency,Default_90,Mandatory_90,null Service_Code,Effective_Start_Date2,Effective_End_Date2,GL_ID_1,Revenue_split_1,GL_ID_2,Revenue_split_2,GL_ID_3,Revenue_split_3,Penalty_Type,
+Penalty_GL_ID,Service_Element_Code,Service_Element_Name,PSEF, P_Code,Main_Service,Default1,Mandatory_91,Code_Type,Field_job_required,Effective_Start_Date3,Effective_End_Date3,'ucs_BBI_Premium_Service' Source 
+from ucs_BBI_Premium_Service where `Pricing_Element_Code<Added_for_ONE>`  <>'[Provide by Marketing team]'
+union all
+select  `Action`,LOB,null Product_Sub_type,Product_Family,Product_Type,Product_Mode,TPDAT,Product_Code1,`Product_Name<Added_for_ONE>`,Service_provision,Service_Termination,External_product_name_EN,External_product_name_TC,Effective_Start_Date,
+Effective_End_Date,`Package_Code<Added_for_ONE>`,`Package_Name<Added_for_ONE>`,`Default`,Mandatory,Element_Min,Element_Max,Effective_Start_Date1,Effective_End_Date1,Element_Type,`Pricing_Element_Code<Added_for_ONE>`,
+Bundle_single_pricing,`Pricing_Element_Name<Added_for_ONE>`,Pricing_Type,Related_service,Related_MRC,`Amount<Added_for_ONE>`,`$0_display_flag`,Allow_multiple_order_qty,Allow_price_override,Billing_name_EN,Billing_name_TC,Lowest_Amount,Highest_Amount, Rules,Main_Price,Contract_period,Cost,
+Transfer_Cost,Charge_Category,Charge_Frequency,Default_90,Mandatory_90,null Service_Code,Effective_Start_Date2,Effective_End_Date2,GL_ID_1,Revenue_split_1,GL_ID_2,Revenue_split_2,GL_ID_3,Revenue_split_3,Penalty_Type,
+`Penalty_GL_ID<Added_for_ONE>`,Service_Element_Code,Service_Element_Name,PSEF, P_Code,Main_Service,Default1,Mandatory_91,Code_Type,Field_job_required,Effective_Start_Date3,Effective_End_Date3,'ucs_LTS_Prem_Fix_Penalty' Source 
+from ucs_LTS_Prem_Fix_Penalty
+union all
+select  `Action`,LOB,null Product_Sub_type,Product_Family,Product_Type,Product_Mode,TPDAT,`Product_Code<Added_for_ONE>`,`Product_Name<Added_for_ONE>`,Service_provision,Service_Termination,External_product_name_EN,External_product_name_TC,Effective_Start_Date,
+Effective_End_Date,Package_Code,Package_Name,`Default`,Mandatory,Element_Min,Element_Max,Effective_Start_Date1,Effective_End_Date1,Element_Type,`Pricing_Element_Code<Added_for_ONE>`,Bundle_single_pricing,`Pricing_Element_Name<Added_for_ONE>`,
+Pricing_Type,Related_service,`Related_MRC_<Added_for_ONE>`,`Amount<Added_for_ONE>`,`$0_display_flag`,Allow_multiple_order_qty,Allow_price_override,Billing_name_EN,Billing_name_TC,Lowest_Amount,Highest_Amount, Rules,Main_Price,Contract_period,Cost,
+Transfer_Cost,Charge_Category,Charge_Frequency,Default_90,Mandatory_90,null Service_Code,Effective_Start_Date2,Effective_End_Date2,`GL_ID_1_<Added_for_ONE>`,Revenue_split_1,GL_ID_2,Revenue_split_2,GL_ID_3,Revenue_split_3,Penalty_Type,
+`Penalty_GL_ID<Added_for_ONE>`,Service_Element_Code,Service_Element_Name,PSEF, P_Code,Main_Service,Default1,Mandatory_91,Code_Type,Field_job_required,Effective_Start_Date3,Effective_End_Date3,'ucs_LTS_Premium_Service' Source 
+from ucs_LTS_Premium_Service  where `Pricing_Element_Code<Added_for_ONE>` <>'[Provide by AI]'
+2025-11-28 16:58:48,385 - INFO - Execution succeeded for UNIQUE_ID 6003.
+2025-11-28 16:58:48,385 - INFO - [ID:6004][顺序号6004]:执行语句为--> truncate dataeconeucs.pr_migration_product_model_ec_one
+2025-11-28 16:58:48,468 - INFO - Execution succeeded for UNIQUE_ID 6004.
+2025-11-28 16:58:48,469 - INFO - [ID:6005][顺序号6005]:执行语句为--> INSERT INTO dataeconeucs.pr_migration_product_model_ec_one (Product_Mode, NET_TYPE_CODE, Product_id, Product_name, Product_MIN_NUMBER, Product_MAX_NUMBER, Package_TYPE, Package_id, Package_name,
+Package_MIN_NUMBER, Package_MAX_NUMBER, Element_Type, Element_id, Element_name, PSEF, PSEF_Description, Amount, main_discnt, Product_Type, Pricing_Type, TP_DAT, Billing_name_EN, Billing_name_TC,
+Related_MRC_Psef, Related_MRC_element, Related_MRC_element_name, Related_PAK_Psef, Related_Pak_element, Related_Pak_element_name, main_service, amount2,flage)
+select distinct Product_Mode, NET_TYPE_CODE, Product_id, Product_name, Product_MIN_NUMBER, Product_MAX_NUMBER, Package_TYPE, Package_id, Package_name, Package_MIN_NUMBER, Package_MAX_NUMBER,
+Element_Type, Element_id, Element_name, PSEF, PSEF_Description, Amount, main_discnt, Product_Type, Pricing_Type, TP_DAT, Billing_name_EN, Billing_name_TC, Related_MRC_Psef, Related_MRC_element,
+Related_MRC_element_name, Related_PAK_Psef, Related_Pak_element, Related_Pak_element_name, main_service, amount2,flage from
+( select
+	(case when trim(Product_Mode)='Main' or trim(Product_Mode)='Group' then '00' when trim(Product_Mode)='Additional' then '01' end) as Product_Mode,
+	(case
+		when Product_Type in ('IDA', 'Citinet (TEL/CITN)', 'Hunting (TEL/HUNT)')
+		and a.Product_name like '%Group%' then 'CP'
+		-- 融合为1，其他为0
+		when Product_Type = 'IDD0060' then '36'
+		when Product_Type = 'IDD' then '32'
+		else '30'
+	end) as NET_TYPE_CODE,
+	Product_id,
+	a.Product_name,
+	'' as Product_MIN_NUMBER,
+	'' as Product_MAX_NUMBER,
+	'' as Package_TYPE,
+	Package_id,
+	a.Package_name,
+	'' as Package_MIN_NUMBER,
+	'' as Package_MAX_NUMBER,
+	b.Element_Type as Element_Type,
+	Element_id,
+	Element_name,
+	PSEF_Code as  PSEF,
+	PSEF_Description as PSEF_Description,
+	Amount,
+	(case when b.Pricing_Type not in ('Service') and b.Pricing_Element_Name is not null then (case when b.Main_Price = 'Y' then 1
+             when b.Main_Price = 'N' then 0
+             else b.Main_Price
+        end) else '' end) main_discnt,
+	Product_Type,
+	 a.Element_Type as Pricing_Type,
+	REPLACE(TPDAT, '/', '_') as TP_DAT,
+	Billing_name_EN,
+	Billing_name_TC,
+	Related_MRC_Psef,
+	'' Related_MRC_element,
+	'' Related_MRC_element_name,
+	 Related_PAK_Psef,
+	'' Related_Pak_element,
+	'' Related_Pak_element_name,
+	(case when b.main_service = 'Y' then 1 when b.main_service = 'N' then 0 else b.main_service  end) as main_service,
+	MRC amount2,'service' as flage
+from (select * from pr_econe_migration_product_mapping where Element_Type='Service') a
+join (
+select Product_Code,Product_Name,Package_Code,Package_name,Pricing_Element_Code, Bundle_single_pricing, Pricing_Element_Name, Pricing_Type, Amount ,Product_Mode,Product_Type,Billing_name_EN,Billing_name_TC,
+Service_Element_Code, Service_Element_Name, PSEF, main_service,Code_Type,Main_Price,TPDAT,Element_Type from pr_econe_migration_product_uat
+where Element_Type='Service'
+GROUP by Product_Code,Product_Name,Package_Code,Package_name,Pricing_Element_Code,Pricing_Element_Code, Bundle_single_pricing, Pricing_Element_Name, Pricing_Type, Amount ,Product_Mode,Product_Type,Billing_name_EN,Billing_name_TC,
+Service_Element_Code, Service_Element_Name, PSEF,main_service,Code_Type,Main_Price,TPDAT,Element_Type
+)  b on a.Element_id=b.Service_Element_code and a.Element_name =b.Service_Element_Name and  a.Product_ID =b.Product_Code and  a.Package_ID=b.Package_Code
+) S
+2025-11-28 16:58:48,641 - INFO - Execution succeeded for UNIQUE_ID 6005.
+2025-11-28 16:58:48,642 - INFO - [ID:6006][顺序号6006]:执行语句为--> INSERT INTO dataeconeucs.pr_migration_product_model_ec_one (Product_Mode, NET_TYPE_CODE, Product_id, Product_name, Product_MIN_NUMBER, Product_MAX_NUMBER, Package_TYPE, Package_id, Package_name,
+Package_MIN_NUMBER, Package_MAX_NUMBER, Element_Type, Element_id, Element_name, PSEF, PSEF_Description, Amount, main_discnt, Product_Type, Pricing_Type, TP_DAT, Billing_name_EN, Billing_name_TC,
+Related_MRC_Psef, Related_MRC_element, Related_MRC_element_name, Related_PAK_Psef, Related_Pak_element, Related_Pak_element_name, main_service, amount2,flage)
+select distinct Product_Mode, NET_TYPE_CODE, Product_id, Product_name, Product_MIN_NUMBER, Product_MAX_NUMBER, Package_TYPE, Package_id, Package_name, Package_MIN_NUMBER, Package_MAX_NUMBER,
+Element_Type, Element_id, Element_name, PSEF, PSEF_Description, Amount, main_discnt, Product_Type, Pricing_Type, TP_DAT, Billing_name_EN, Billing_name_TC, Related_MRC_Psef, Related_MRC_element,
+Related_MRC_element_name, Related_PAK_Psef, Related_Pak_element, Related_Pak_element_name, main_service, amount2,flage from
+(
+select
+	(case when trim(Product_Mode)='Main' or trim(Product_Mode)='Group' then '00' when trim(Product_Mode)='Additional' then '01' end) as Product_Mode,
+	(case
+		when Product_Type in ('IDA', 'Citinet (TEL/CITN)', 'Hunting (TEL/HUNT)')
+		and a.Product_name like '%Group%' then 'CP'
+		-- 融合为1，其他为0
+		when Product_Type = 'IDD0060' then '36'
+		when Product_Type = 'IDD' then '32'
+		else '30'
+	end) as NET_TYPE_CODE,
+	Product_id,
+	a.Product_name,
+	'' as Product_MIN_NUMBER,
+	'' as Product_MAX_NUMBER,
+	'' as Package_TYPE,
+	Package_id,
+	a.Package_name,
+	'' as Package_MIN_NUMBER,
+	'' as Package_MAX_NUMBER,
+	b.Element_Type as Element_Type, 
+	Element_id,
+	Element_name,
+	PSEF_Code as  PSEF,
+	PSEF_Description as PSEF_Description,
+	Amount,
+	(case when b.Pricing_Type not in ('Service') and b.Pricing_Element_Name is not null then (case when b.Main_Price = 'Y' then 1
+             when b.Main_Price = 'N' then 0
+             else b.Main_Price
+        end) else '' end) main_discnt,
+	Product_Type,
+	 a.Element_Type as Pricing_Type,
+	REPLACE(TPDAT, '/', '_') as TP_DAT,
+	Billing_name_EN,
+	Billing_name_TC,
+	 Related_MRC_Psef,
+	'' Related_MRC_element,
+	'' Related_MRC_element_name,
+	 Related_PAK_Psef,
+	'' Related_Pak_element,
+	'' Related_Pak_element_name,
+	(case when b.main_service = 'Y' then 1 when b.main_service = 'N' then 0 else b.main_service  end) as main_service,
+	MRC amount2,'Pricing' as flage
+from pr_econe_migration_product_mapping a
+join (
+select Product_Code,Product_Name,Package_Code,Package_name,Pricing_Element_Code, Bundle_single_pricing, Pricing_Element_Name, Pricing_Type, Amount ,Product_Mode,Product_Type,Billing_name_EN,Billing_name_TC,
+Service_Element_Code, Service_Element_Name, PSEF,main_service,Code_Type,Main_Price,TPDAT,Element_Type from pr_econe_migration_product_uat
+where Element_Type='Pricing'
+GROUP by Product_Code,Product_Name,Package_Code,Package_name,Pricing_Element_Code,Pricing_Element_Code, Bundle_single_pricing, Pricing_Element_Name, Pricing_Type, Amount ,Product_Mode,Product_Type,Billing_name_EN,Billing_name_TC,
+Service_Element_Code, Service_Element_Name, PSEF,main_service,Code_Type,Main_Price,TPDAT,Element_Type
+)  b on a.Element_id=b.Pricing_Element_Code and a.Element_name=b.Pricing_Element_Name and  a.Product_ID =b.Product_Code and a.Package_ID=b.Package_Code
+where a.Element_Type <> 'Service' and  b.Element_Type='Pricing'
+) p
+2025-11-28 16:58:48,716 - INFO - Execution succeeded for UNIQUE_ID 6006.
+2025-11-28 16:58:48,716 - INFO - [ID:6007][顺序号6007]:执行语句为--> truncate dataeconeucs.pr_econe_migration_product_model
+2025-11-28 16:58:48,797 - INFO - Execution succeeded for UNIQUE_ID 6007.
+2025-11-28 16:58:48,798 - INFO - [ID:6008][顺序号6008]:执行语句为--> INSERT INTO dataeconeucs.pr_econe_migration_product_model (Product_Mode, NET_TYPE_CODE, Product_id, Product_name, Product_MIN_NUMBER, Product_MAX_NUMBER, Package_TYPE, Package_id, Package_name,
+Package_MIN_NUMBER, Package_MAX_NUMBER, Element_Type, Element_id, Element_name, PSEF, PSEF_Description, Amount, main_discnt, Product_Type, Pricing_Type, TP_DAT, Billing_name_EN, Billing_name_TC,
+Related_MRC_Psef, Related_MRC_element, Related_MRC_element_name, Related_PAK_Psef, Related_Pak_element, Related_Pak_element_name, main_service, amount2)
+select Product_Mode, NET_TYPE_CODE, Product_id, Product_name, Product_MIN_NUMBER, Product_MAX_NUMBER, Package_TYPE, Package_id, Package_name,
+Package_MIN_NUMBER, Package_MAX_NUMBER, Element_Type, Element_id, Element_name, PSEF, PSEF_Description, Amount, main_discnt, Product_Type, Pricing_Type, TP_DAT, Billing_name_EN, Billing_name_TC,
+Related_MRC_Psef, Related_MRC_element, Related_MRC_element_name, Related_PAK_Psef, Related_Pak_element, Related_Pak_element_name, main_service, amount2 from pr_migration_product_model_ec_one
+where (Product_ID is not null and Product_ID <>'') and (Product_Name is not null and Product_Name <>'') and (Package_ID is not null and Package_ID <>'')
+and (Package_Name is not null and Package_Name <>'') and  (Element_ID is not null and Element_ID <>'') and (Element_Name is not null and Element_Name <>'')
+
+2025-11-28 16:58:48,956 - INFO - Execution succeeded for UNIQUE_ID 6008.
+2025-11-28 16:58:48,956 - INFO - ☆ 执行完毕
+
+2025-11-28 17:12:26,052 - INFO - 程序开始了！！！！
+2025-11-28 17:12:29,874 - INFO - 开始执行SQL查询并导出到Excel...
+2025-11-28 17:12:32,312 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-11-28 17:12:32,415 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-11-28 17:46:26,990 - INFO - 程序开始了！！！！
+2025-11-28 17:46:30,576 - INFO - 开始执行SQL查询并导出到Excel...
+2025-11-28 17:46:32,695 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-11-28 17:46:32,812 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-11-28 17:46:46,805 - INFO - 根据执行标识'pr_econe_ucs_query'查询不到待执行的数据。
+
+2025-12-01 10:13:26,954 - INFO - 程序开始了！！！！
+2025-12-01 10:14:57,819 - INFO - 程序开始了！！！！
+2025-12-01 10:15:09,024 - INFO - 开始执行SQL查询并导出到Excel...
+2025-12-01 10:15:13,874 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-01 10:15:13,967 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-01 11:14:56,683 - INFO - 程序开始了！！！！
+2025-12-01 11:15:00,354 - INFO - 开始执行SQL查询并导出到Excel...
+2025-12-01 11:15:02,769 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-01 11:15:02,874 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-01 11:15:12,330 - INFO - 根据执行标识'pr_econe_ucs_query'查询到【12】条SQL记录. 
+
+2025-12-01 11:15:15,507 - INFO - [ID:100][顺序号100]: 执行查询 --> select distinct Product_id, Product_name, Package_id ,Package_name,Element_id ,Element_name  from pr_econe_migration_product_mapping where Element_Type ='Pricing'
+except
+select distinct Product_Code, Product_Name,Package_Code ,Package_name,pricing_Element_code ,pricing_Element_name  from pr_econe_migration_product_uat
+
+2025-12-01 11:15:15,536 - WARNING - 查询未返回结果或执行失败: select distinct Product_id, Product_name, Package_id ,Package_name,Element_id ,Element_name  from pr_econe_migration_product_mapping where Element_Type ='Pricing'
+except
+select distinct Product_Code, Product_Name,Package_Code ,Package_name,pricing_Element_code ,pricing_Element_name  from pr_econe_migration_product_uat
+
+2025-12-01 11:15:15,536 - INFO - [ID:101][顺序号101]: 执行查询 --> select distinct Product_id, Product_name, Package_id ,Package_name,Element_id ,Element_name  from pr_econe_migration_product_mapping where Element_Type ='Service' 
+except
+select distinct Product_Code, Product_Name,Package_Code ,Package_name,Service_Element_code ,Service_Element_name  from pr_econe_migration_product_uat 
+
+2025-12-01 11:15:15,588 - INFO - 查询成功，获取到 2 条记录。
+2025-12-01 11:15:15,589 - INFO - [ID:102][顺序号102]: 执行查询 --> select distinct Element_id,Element_name,Element_Type ,psef_code from pr_econe_migration_product_mapping where Element_Type='Pricing' and Element_Type<>'MRC (Attr)' and Element_Type<>'MRC'
+except
+select distinct pricing_Element_code,pricing_Element_name,Pricing_Type,psef from pr_econe_migration_product_uat where Element_Type='Pricing'
+
+2025-12-01 11:15:15,598 - WARNING - 查询未返回结果或执行失败: select distinct Element_id,Element_name,Element_Type ,psef_code from pr_econe_migration_product_mapping where Element_Type='Pricing' and Element_Type<>'MRC (Attr)' and Element_Type<>'MRC'
+except
+select distinct pricing_Element_code,pricing_Element_name,Pricing_Type,psef from pr_econe_migration_product_uat where Element_Type='Pricing'
+
+2025-12-01 11:15:15,598 - INFO - [ID:103][顺序号103]: 执行查询 --> select * from dataeconeucs.pr_econe_migration_product_model a where a.Pricing_Type ='MRC' and a.PSEF_Description  like '%REBATE%' 
+2025-12-01 11:15:15,648 - WARNING - 查询未返回结果或执行失败: select * from dataeconeucs.pr_econe_migration_product_model a where a.Pricing_Type ='MRC' and a.PSEF_Description  like '%REBATE%' 
+2025-12-01 11:15:15,648 - INFO - [ID:104][顺序号104]: 执行查询 --> select * from dataeconeucs.pr_econe_migration_product_model a where a.Pricing_Type ='MRC' and a.Related_MRC_Psef !=''
+2025-12-01 11:15:15,659 - WARNING - 查询未返回结果或执行失败: select * from dataeconeucs.pr_econe_migration_product_model a where a.Pricing_Type ='MRC' and a.Related_MRC_Psef !=''
+2025-12-01 11:15:15,659 - INFO - [ID:105][顺序号105]: 执行查询 --> select a.Product_id ,a.Package_id ,a.Element_id ,a.PSEF,a.Related_MRC_Psef, Related_PAK_Psef from dataeconeucs.pr_econe_migration_product_model a
+where a.Pricing_Type ='MRC'
+group by a.Product_id ,a.Package_id ,a.Element_id ,a.PSEF,a.Related_MRC_Psef,Related_PAK_Psef
+having count(1)>1 
+2025-12-01 11:15:15,671 - WARNING - 查询未返回结果或执行失败: select a.Product_id ,a.Package_id ,a.Element_id ,a.PSEF,a.Related_MRC_Psef, Related_PAK_Psef from dataeconeucs.pr_econe_migration_product_model a
+where a.Pricing_Type ='MRC'
+group by a.Product_id ,a.Package_id ,a.Element_id ,a.PSEF,a.Related_MRC_Psef,Related_PAK_Psef
+having count(1)>1 
+2025-12-01 11:15:15,671 - INFO - [ID:106][顺序号106]: 执行查询 --> select  a.Product_id ,a.Product_name,a.Package_id,a.Package_name ,a.Element_id ,a.Element_name,a.PSEF,a.Element_type,a.pricing_type,a.main_discnt ,a.main_service,a.Related_MRC_Psef,a.Related_PAK_Psef 
+from dataeconeucs.pr_econe_migration_product_model a where a.main_discnt =1
+and a.Pricing_Type not like '%MRC%' 
+2025-12-01 11:15:15,681 - WARNING - 查询未返回结果或执行失败: select  a.Product_id ,a.Product_name,a.Package_id,a.Package_name ,a.Element_id ,a.Element_name,a.PSEF,a.Element_type,a.pricing_type,a.main_discnt ,a.main_service,a.Related_MRC_Psef,a.Related_PAK_Psef 
+from dataeconeucs.pr_econe_migration_product_model a where a.main_discnt =1
+and a.Pricing_Type not like '%MRC%' 
+2025-12-01 11:15:15,681 - INFO - [ID:107][顺序号107]: 执行查询 --> select a.Product_id,a.Element_id,a.PSEF,a.Related_MRC_Psef, Related_PAK_Psef,PSEF_Description,count(1) from dataeconeucs.pr_econe_migration_product_model a
+group by  a.Product_id, a.Element_id ,a.PSEF,a.Related_MRC_Psef, Related_PAK_Psef,PSEF_Description
+having count(1) > 1
+2025-12-01 11:15:15,696 - WARNING - 查询未返回结果或执行失败: select a.Product_id,a.Element_id,a.PSEF,a.Related_MRC_Psef, Related_PAK_Psef,PSEF_Description,count(1) from dataeconeucs.pr_econe_migration_product_model a
+group by  a.Product_id, a.Element_id ,a.PSEF,a.Related_MRC_Psef, Related_PAK_Psef,PSEF_Description
+having count(1) > 1
+2025-12-01 11:15:15,697 - INFO - [ID:108][顺序号108]: 执行查询 --> select a.Product_id,a.Package_id,a.Element_id,a.PSEF,a.Related_MRC_Psef,TP_DAT  from dataeconeucs.pr_econe_migration_product_model  a
+where TP_DAT ='' or TP_DAT is null
+2025-12-01 11:15:15,706 - WARNING - 查询未返回结果或执行失败: select a.Product_id,a.Package_id,a.Element_id,a.PSEF,a.Related_MRC_Psef,TP_DAT  from dataeconeucs.pr_econe_migration_product_model  a
+where TP_DAT ='' or TP_DAT is null
+2025-12-01 11:15:15,706 - INFO - [ID:109][顺序号109]: 执行查询 --> SELECT  a.ELEMENT_ID, a.ELEMENT_NAME,b.ELEMENT_ID as UAT_CRM_ELEMENT_ID, b.ELEMENT_NAME UAT_CRM_ELEMENT_NAME FROM dataeconeucs.pr_econe_migration_product_model a 
+join dataeconeucs.lyy_econe_all_product_info b on a.ELEMENT_NAME = b.ELEMENT_NAME
+except 
+SELECT ELEMENT_ID, ELEMENT_NAME,ELEMENT_ID, ELEMENT_NAME FROM dataeconeucs.lyy_econe_all_product_info;
+
+2025-12-01 11:15:15,805 - INFO - 查询成功，获取到 4 条记录。
+2025-12-01 11:15:15,805 - INFO - [ID:200][顺序号200]: 执行查询 --> SELECT  a.PACKAGE_ID, a.PACKAGE_NAME,b.PACKAGE_ID as UAT_CRM_PACKAGE_ID, b.PACKAGE_NAME UAT_CRM_PACKAGE_NAME 
+FROM dataeconeucs.pr_econe_migration_product_model a join dataeconeucs.lyy_econe_all_product_info b on a.PACKAGE_NAME = b.PACKAGE_NAME
+except 
+SELECT PACKAGE_ID, PACKAGE_NAME,PACKAGE_ID, PACKAGE_NAME FROM dataeconeucs.lyy_econe_all_product_info;
+
+2025-12-01 11:15:16,009 - INFO - 查询成功，获取到 1 条记录。
+2025-12-01 11:15:16,009 - INFO - [ID:201][顺序号201]: 执行查询 --> SELECT  a.PRODUCT_ID, a.PRODUCT_NAME,b.PRODUCT_ID as UAT_CRM_PRODUCT_ID, b.PRODUCT_NAME as UAT_CRM_PRODUCT_NAME
+FROM dataeconeucs.pr_econe_migration_product_model a join dataeconeucs.lyy_econe_all_product_info b on a.PRODUCT_NAME = b.PRODUCT_NAME
+group by  a.PRODUCT_ID, a.PRODUCT_NAME,b.PRODUCT_ID , b.PRODUCT_NAME 
+except 
+SELECT PRODUCT_ID, PRODUCT_NAME,PRODUCT_ID, PRODUCT_NAME FROM dataeconeucs.lyy_econe_all_product_info
+group by  PRODUCT_ID, PRODUCT_NAME,PRODUCT_ID, PRODUCT_NAME;
+2025-12-01 11:15:16,380 - WARNING - 查询未返回结果或执行失败: SELECT  a.PRODUCT_ID, a.PRODUCT_NAME,b.PRODUCT_ID as UAT_CRM_PRODUCT_ID, b.PRODUCT_NAME as UAT_CRM_PRODUCT_NAME
+FROM dataeconeucs.pr_econe_migration_product_model a join dataeconeucs.lyy_econe_all_product_info b on a.PRODUCT_NAME = b.PRODUCT_NAME
+group by  a.PRODUCT_ID, a.PRODUCT_NAME,b.PRODUCT_ID , b.PRODUCT_NAME 
+except 
+SELECT PRODUCT_ID, PRODUCT_NAME,PRODUCT_ID, PRODUCT_NAME FROM dataeconeucs.lyy_econe_all_product_info
+group by  PRODUCT_ID, PRODUCT_NAME,PRODUCT_ID, PRODUCT_NAME;
+2025-12-01 11:15:35,495 - INFO - ☆ 数据成功保存到文件: D:\2025\AI\exe\migration_tools\import_excel\query_result.xlsx
+2025-12-01 11:15:35,495 - INFO - SQL查询并导出到Excel的操作已完成。
+2025-12-01 11:35:30,479 - INFO - 程序开始了！！！！
+2025-12-01 11:35:39,351 - INFO - 开始执行SQL查询并导出到Excel...
+2025-12-01 11:35:41,769 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-01 11:35:41,871 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-01 11:35:50,859 - INFO - 根据执行标识'pr_econe_ucs_query'查询到【19】条SQL记录. 
+
+2025-12-01 11:35:52,832 - INFO - [ID:100][顺序号100]: 执行查询 --> select distinct Product_id, Product_name, Package_id ,Package_name,Element_id ,Element_name  from pr_econe_migration_product_mapping where Element_Type ='Pricing'
+except
+select distinct Product_Code, Product_Name,Package_Code ,Package_name,pricing_Element_code ,pricing_Element_name  from pr_econe_migration_product_uat
+
+2025-12-01 11:35:52,853 - WARNING - 查询未返回结果或执行失败: select distinct Product_id, Product_name, Package_id ,Package_name,Element_id ,Element_name  from pr_econe_migration_product_mapping where Element_Type ='Pricing'
+except
+select distinct Product_Code, Product_Name,Package_Code ,Package_name,pricing_Element_code ,pricing_Element_name  from pr_econe_migration_product_uat
+
+2025-12-01 11:35:52,853 - INFO - [ID:101][顺序号101]: 执行查询 --> select distinct Product_id, Product_name, Package_id ,Package_name,Element_id ,Element_name  from pr_econe_migration_product_mapping where Element_Type ='Service' 
+except
+select distinct Product_Code, Product_Name,Package_Code ,Package_name,Service_Element_code ,Service_Element_name  from pr_econe_migration_product_uat 
+
+2025-12-01 11:35:52,896 - INFO - 查询成功，获取到 2 条记录。
+2025-12-01 11:35:52,897 - INFO - [ID:102][顺序号102]: 执行查询 --> select distinct Element_id,Element_name,Element_Type ,psef_code from pr_econe_migration_product_mapping where Element_Type='Pricing' and Element_Type<>'MRC (Attr)' and Element_Type<>'MRC'
+except
+select distinct pricing_Element_code,pricing_Element_name,Pricing_Type,psef from pr_econe_migration_product_uat where Element_Type='Pricing'
+
+2025-12-01 11:35:52,908 - WARNING - 查询未返回结果或执行失败: select distinct Element_id,Element_name,Element_Type ,psef_code from pr_econe_migration_product_mapping where Element_Type='Pricing' and Element_Type<>'MRC (Attr)' and Element_Type<>'MRC'
+except
+select distinct pricing_Element_code,pricing_Element_name,Pricing_Type,psef from pr_econe_migration_product_uat where Element_Type='Pricing'
+
+2025-12-01 11:35:52,908 - INFO - [ID:103][顺序号103]: 执行查询 --> select * from dataeconeucs.pr_econe_migration_product_model a where a.Pricing_Type ='MRC' and a.PSEF_Description  like '%REBATE%' 
+2025-12-01 11:35:52,937 - WARNING - 查询未返回结果或执行失败: select * from dataeconeucs.pr_econe_migration_product_model a where a.Pricing_Type ='MRC' and a.PSEF_Description  like '%REBATE%' 
+2025-12-01 11:35:52,938 - INFO - [ID:104][顺序号104]: 执行查询 --> select * from dataeconeucs.pr_econe_migration_product_model a where a.Pricing_Type ='MRC' and a.Related_MRC_Psef !=''
+2025-12-01 11:35:52,951 - WARNING - 查询未返回结果或执行失败: select * from dataeconeucs.pr_econe_migration_product_model a where a.Pricing_Type ='MRC' and a.Related_MRC_Psef !=''
+2025-12-01 11:35:52,952 - INFO - [ID:105][顺序号105]: 执行查询 --> select a.Product_id ,a.Package_id ,a.Element_id ,a.PSEF,a.Related_MRC_Psef, Related_PAK_Psef from dataeconeucs.pr_econe_migration_product_model a
+where a.Pricing_Type ='MRC'
+group by a.Product_id ,a.Package_id ,a.Element_id ,a.PSEF,a.Related_MRC_Psef,Related_PAK_Psef
+having count(1)>1 
+2025-12-01 11:35:52,963 - WARNING - 查询未返回结果或执行失败: select a.Product_id ,a.Package_id ,a.Element_id ,a.PSEF,a.Related_MRC_Psef, Related_PAK_Psef from dataeconeucs.pr_econe_migration_product_model a
+where a.Pricing_Type ='MRC'
+group by a.Product_id ,a.Package_id ,a.Element_id ,a.PSEF,a.Related_MRC_Psef,Related_PAK_Psef
+having count(1)>1 
+2025-12-01 11:35:52,963 - INFO - [ID:106][顺序号106]: 执行查询 --> select  a.Product_id ,a.Product_name,a.Package_id,a.Package_name ,a.Element_id ,a.Element_name,a.PSEF,a.Element_type,a.pricing_type,a.main_discnt ,a.main_service,a.Related_MRC_Psef,a.Related_PAK_Psef 
+from dataeconeucs.pr_econe_migration_product_model a where a.main_discnt =1
+and a.Pricing_Type not like '%MRC%' 
+2025-12-01 11:35:52,975 - WARNING - 查询未返回结果或执行失败: select  a.Product_id ,a.Product_name,a.Package_id,a.Package_name ,a.Element_id ,a.Element_name,a.PSEF,a.Element_type,a.pricing_type,a.main_discnt ,a.main_service,a.Related_MRC_Psef,a.Related_PAK_Psef 
+from dataeconeucs.pr_econe_migration_product_model a where a.main_discnt =1
+and a.Pricing_Type not like '%MRC%' 
+2025-12-01 11:35:52,975 - INFO - [ID:107][顺序号107]: 执行查询 --> select a.Product_id,a.Element_id,a.PSEF,a.Related_MRC_Psef, Related_PAK_Psef,PSEF_Description,count(1) from dataeconeucs.pr_econe_migration_product_model a
+group by  a.Product_id, a.Element_id ,a.PSEF,a.Related_MRC_Psef, Related_PAK_Psef,PSEF_Description
+having count(1) > 1
+2025-12-01 11:35:52,991 - WARNING - 查询未返回结果或执行失败: select a.Product_id,a.Element_id,a.PSEF,a.Related_MRC_Psef, Related_PAK_Psef,PSEF_Description,count(1) from dataeconeucs.pr_econe_migration_product_model a
+group by  a.Product_id, a.Element_id ,a.PSEF,a.Related_MRC_Psef, Related_PAK_Psef,PSEF_Description
+having count(1) > 1
+2025-12-01 11:35:52,992 - INFO - [ID:108][顺序号108]: 执行查询 --> select a.Product_id,a.Package_id,a.Element_id,a.PSEF,a.Related_MRC_Psef,TP_DAT  from dataeconeucs.pr_econe_migration_product_model  a
+where TP_DAT ='' or TP_DAT is null
+2025-12-01 11:35:53,004 - WARNING - 查询未返回结果或执行失败: select a.Product_id,a.Package_id,a.Element_id,a.PSEF,a.Related_MRC_Psef,TP_DAT  from dataeconeucs.pr_econe_migration_product_model  a
+where TP_DAT ='' or TP_DAT is null
+2025-12-01 11:35:53,004 - INFO - [ID:109][顺序号109]: 执行查询 --> SELECT  a.ELEMENT_ID, a.ELEMENT_NAME,b.ELEMENT_ID as UAT_CRM_ELEMENT_ID, b.ELEMENT_NAME UAT_CRM_ELEMENT_NAME FROM dataeconeucs.pr_econe_migration_product_model a 
+join dataeconeucs.lyy_econe_all_product_info b on a.ELEMENT_NAME = b.ELEMENT_NAME
+except 
+SELECT ELEMENT_ID, ELEMENT_NAME,ELEMENT_ID, ELEMENT_NAME FROM dataeconeucs.lyy_econe_all_product_info;
+
+2025-12-01 11:35:53,058 - INFO - 查询成功，获取到 4 条记录。
+2025-12-01 11:35:53,058 - INFO - [ID:200][顺序号200]: 执行查询 --> SELECT  a.PACKAGE_ID, a.PACKAGE_NAME,b.PACKAGE_ID as UAT_CRM_PACKAGE_ID, b.PACKAGE_NAME UAT_CRM_PACKAGE_NAME 
+FROM dataeconeucs.pr_econe_migration_product_model a join dataeconeucs.lyy_econe_all_product_info b on a.PACKAGE_NAME = b.PACKAGE_NAME
+except 
+SELECT PACKAGE_ID, PACKAGE_NAME,PACKAGE_ID, PACKAGE_NAME FROM dataeconeucs.lyy_econe_all_product_info;
+
+2025-12-01 11:35:53,268 - INFO - 查询成功，获取到 1 条记录。
+2025-12-01 11:35:53,268 - INFO - [ID:201][顺序号201]: 执行查询 --> SELECT  a.PRODUCT_ID, a.PRODUCT_NAME,b.PRODUCT_ID as UAT_CRM_PRODUCT_ID, b.PRODUCT_NAME as UAT_CRM_PRODUCT_NAME
+FROM dataeconeucs.pr_econe_migration_product_model a join dataeconeucs.lyy_econe_all_product_info b on a.PRODUCT_NAME = b.PRODUCT_NAME
+group by  a.PRODUCT_ID, a.PRODUCT_NAME,b.PRODUCT_ID , b.PRODUCT_NAME 
+except 
+SELECT PRODUCT_ID, PRODUCT_NAME,PRODUCT_ID, PRODUCT_NAME FROM dataeconeucs.lyy_econe_all_product_info
+group by  PRODUCT_ID, PRODUCT_NAME,PRODUCT_ID, PRODUCT_NAME;
+2025-12-01 11:35:53,643 - WARNING - 查询未返回结果或执行失败: SELECT  a.PRODUCT_ID, a.PRODUCT_NAME,b.PRODUCT_ID as UAT_CRM_PRODUCT_ID, b.PRODUCT_NAME as UAT_CRM_PRODUCT_NAME
+FROM dataeconeucs.pr_econe_migration_product_model a join dataeconeucs.lyy_econe_all_product_info b on a.PRODUCT_NAME = b.PRODUCT_NAME
+group by  a.PRODUCT_ID, a.PRODUCT_NAME,b.PRODUCT_ID , b.PRODUCT_NAME 
+except 
+SELECT PRODUCT_ID, PRODUCT_NAME,PRODUCT_ID, PRODUCT_NAME FROM dataeconeucs.lyy_econe_all_product_info
+group by  PRODUCT_ID, PRODUCT_NAME,PRODUCT_ID, PRODUCT_NAME;
+2025-12-01 11:35:53,643 - INFO - [ID:202][顺序号202]: 执行查询 --> SELECT t.Service_Element_Code,t.PSEF,t.Source 
+FROM dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+    SELECT Service_Element_Code
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    GROUP BY Service_Element_Code
+    HAVING COUNT(DISTINCT PSEF) > 1
+) problem_codes ON t.Service_Element_Code = problem_codes.Service_Element_Code
+where t.Service_Element_Code<>''
+group by  t.Service_Element_Code,t.PSEF
+ORDER BY t.Service_Element_Code, t.PSEF;
+2025-12-01 11:35:53,661 - WARNING - 查询未返回结果或执行失败: SELECT t.Service_Element_Code,t.PSEF,t.Source 
+FROM dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+    SELECT Service_Element_Code
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    GROUP BY Service_Element_Code
+    HAVING COUNT(DISTINCT PSEF) > 1
+) problem_codes ON t.Service_Element_Code = problem_codes.Service_Element_Code
+where t.Service_Element_Code<>''
+group by  t.Service_Element_Code,t.PSEF
+ORDER BY t.Service_Element_Code, t.PSEF;
+2025-12-01 11:35:53,661 - INFO - [ID:203][顺序号203]: 执行查询 --> SELECT t.Pricing_Element_Code,t.PSEF,t.Source 
+FROM dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+    SELECT Pricing_Element_Code
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    GROUP BY Pricing_Element_Code
+    HAVING COUNT(DISTINCT PSEF) > 1
+) problem_codes ON t.Pricing_Element_Code = problem_codes.Pricing_Element_Code
+where t.Pricing_Element_Code<>''
+group by  t.Pricing_Element_Code,t.PSEF
+ORDER BY t.Pricing_Element_Code, t.PSEF;
+2025-12-01 11:35:53,678 - WARNING - 查询未返回结果或执行失败: SELECT t.Pricing_Element_Code,t.PSEF,t.Source 
+FROM dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+    SELECT Pricing_Element_Code
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    GROUP BY Pricing_Element_Code
+    HAVING COUNT(DISTINCT PSEF) > 1
+) problem_codes ON t.Pricing_Element_Code = problem_codes.Pricing_Element_Code
+where t.Pricing_Element_Code<>''
+group by  t.Pricing_Element_Code,t.PSEF
+ORDER BY t.Pricing_Element_Code, t.PSEF;
+2025-12-01 11:35:53,678 - INFO - [ID:204][顺序号204]: 执行查询 --> SELECT t.Service_Element_Code,t.Service_Element_Name ,t.Main_Service,t.PSEF,t.Source 
+FROM dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+    SELECT Service_Element_Code
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    GROUP BY Service_Element_Code
+    HAVING COUNT(DISTINCT Main_Service) > 1
+) problem_codes ON t.Service_Element_Code = problem_codes.Service_Element_Code
+where t.Service_Element_Code<>''
+group by  t.Service_Element_Code,t.Service_Element_Name ,t.PSEF,t.Main_Service
+ORDER BY t.Service_Element_Code, t.PSEF,t.Main_Service;
+2025-12-01 11:35:53,695 - WARNING - 查询未返回结果或执行失败: SELECT t.Service_Element_Code,t.Service_Element_Name ,t.Main_Service,t.PSEF,t.Source 
+FROM dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+    SELECT Service_Element_Code
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    GROUP BY Service_Element_Code
+    HAVING COUNT(DISTINCT Main_Service) > 1
+) problem_codes ON t.Service_Element_Code = problem_codes.Service_Element_Code
+where t.Service_Element_Code<>''
+group by  t.Service_Element_Code,t.Service_Element_Name ,t.PSEF,t.Main_Service
+ORDER BY t.Service_Element_Code, t.PSEF,t.Main_Service;
+2025-12-01 11:35:53,695 - INFO - [ID:205][顺序号205]: 执行查询 --> SELECT t.Pricing_Element_Code,t.Pricing_Element_Name,t.Main_Price,t.PSEF,t.Source 
+FROM dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+    SELECT Pricing_Element_Code
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    GROUP BY Pricing_Element_Code
+    HAVING COUNT(DISTINCT Main_Price) > 1
+) problem_codes ON t.Pricing_Element_Code = problem_codes.Pricing_Element_Code
+where t.Pricing_Element_Code<>''
+group by  t.Pricing_Element_Code,t.Pricing_Element_Name,t.PSEF,t.Main_Price
+ORDER BY t.Pricing_Element_Code, t.PSEF,t.Main_Price;
+2025-12-01 11:35:53,712 - WARNING - 查询未返回结果或执行失败: SELECT t.Pricing_Element_Code,t.Pricing_Element_Name,t.Main_Price,t.PSEF,t.Source 
+FROM dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+    SELECT Pricing_Element_Code
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    GROUP BY Pricing_Element_Code
+    HAVING COUNT(DISTINCT Main_Price) > 1
+) problem_codes ON t.Pricing_Element_Code = problem_codes.Pricing_Element_Code
+where t.Pricing_Element_Code<>''
+group by  t.Pricing_Element_Code,t.Pricing_Element_Name,t.PSEF,t.Main_Price
+ORDER BY t.Pricing_Element_Code, t.PSEF,t.Main_Price;
+2025-12-01 11:35:53,712 - INFO - [ID:206][顺序号206]: 执行查询 --> SELECT t.Product_Code, t.Product_Name,t.Service_Element_Code, t.PSEF, t.code_type,t.Source  FROM  dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+     SELECT Service_Element_Code,PSEF
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    where Service_Element_Code<> '' and PSEF<> ''
+    GROUP BY Service_Element_Code,PSEF
+    HAVING COUNT(distinct code_type) > 1
+) problem_codes 
+ON t.Service_Element_Code = problem_codes.Service_Element_Code
+WHERE  t.Service_Element_Code <> ''
+ORDER BY t.Product_Code, t.Service_Element_Code, t.PSEF;
+2025-12-01 11:35:53,737 - WARNING - 查询未返回结果或执行失败: SELECT t.Product_Code, t.Product_Name,t.Service_Element_Code, t.PSEF, t.code_type,t.Source  FROM  dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+     SELECT Service_Element_Code,PSEF
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    where Service_Element_Code<> '' and PSEF<> ''
+    GROUP BY Service_Element_Code,PSEF
+    HAVING COUNT(distinct code_type) > 1
+) problem_codes 
+ON t.Service_Element_Code = problem_codes.Service_Element_Code
+WHERE  t.Service_Element_Code <> ''
+ORDER BY t.Product_Code, t.Service_Element_Code, t.PSEF;
+2025-12-01 11:35:53,737 - INFO - [ID:207][顺序号207]: 执行查询 --> SELECT t.Product_Code, t.Product_Name,t.Service_Element_Code, t.PSEF, t.code_type,t.TPDAT,t.Source FROM  dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+     SELECT Product_Code,TPDAT
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    where Product_Code<> '' 
+    GROUP BY Product_Code,TPDAT
+    HAVING COUNT(distinct TPDAT) > 1
+) problem_codes 
+ON t.Product_Code = problem_codes.Product_Code
+WHERE  t.Service_Element_Code <> ''
+ORDER BY t.Product_Code, t.Service_Element_Code, t.PSEF,t.TPDAT;
+2025-12-01 11:35:53,771 - WARNING - 查询未返回结果或执行失败: SELECT t.Product_Code, t.Product_Name,t.Service_Element_Code, t.PSEF, t.code_type,t.TPDAT,t.Source FROM  dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+     SELECT Product_Code,TPDAT
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    where Product_Code<> '' 
+    GROUP BY Product_Code,TPDAT
+    HAVING COUNT(distinct TPDAT) > 1
+) problem_codes 
+ON t.Product_Code = problem_codes.Product_Code
+WHERE  t.Service_Element_Code <> ''
+ORDER BY t.Product_Code, t.Service_Element_Code, t.PSEF,t.TPDAT;
+2025-12-01 11:35:53,771 - INFO - [ID:300][顺序号300]: 执行查询 --> select UNIQUE_ID ,DEAL_NAME  from  batch_deal_config bdc where 	DEAL_FLAG='pr_econe_ucs_query' 
+2025-12-01 11:35:53,784 - INFO - 查询成功，获取到 19 条记录。
+2025-12-01 11:36:06,328 - ERROR - ☆ 保存Excel文件时出错: [Errno 13] Permission denied: 'D:\\2025\\AI\\exe\\migration_tools\\import_excel\\query_result.xlsx'
+2025-12-01 11:36:06,328 - INFO - SQL查询并导出到Excel的操作已完成。
+2025-12-01 11:36:21,584 - INFO - 开始执行SQL查询并导出到Excel...
+2025-12-01 11:36:23,616 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-01 11:36:23,708 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-01 11:36:32,274 - INFO - 根据执行标识'pr_econe_ucs_query'查询到【19】条SQL记录. 
+
+2025-12-01 11:36:33,799 - INFO - [ID:100][顺序号100]: 执行查询 --> select distinct Product_id, Product_name, Package_id ,Package_name,Element_id ,Element_name  from pr_econe_migration_product_mapping where Element_Type ='Pricing'
+except
+select distinct Product_Code, Product_Name,Package_Code ,Package_name,pricing_Element_code ,pricing_Element_name  from pr_econe_migration_product_uat
+
+2025-12-01 11:36:33,823 - WARNING - 查询未返回结果或执行失败: select distinct Product_id, Product_name, Package_id ,Package_name,Element_id ,Element_name  from pr_econe_migration_product_mapping where Element_Type ='Pricing'
+except
+select distinct Product_Code, Product_Name,Package_Code ,Package_name,pricing_Element_code ,pricing_Element_name  from pr_econe_migration_product_uat
+
+2025-12-01 11:36:33,823 - INFO - [ID:101][顺序号101]: 执行查询 --> select distinct Product_id, Product_name, Package_id ,Package_name,Element_id ,Element_name  from pr_econe_migration_product_mapping where Element_Type ='Service' 
+except
+select distinct Product_Code, Product_Name,Package_Code ,Package_name,Service_Element_code ,Service_Element_name  from pr_econe_migration_product_uat 
+
+2025-12-01 11:36:33,867 - INFO - 查询成功，获取到 2 条记录。
+2025-12-01 11:36:33,867 - INFO - [ID:102][顺序号102]: 执行查询 --> select distinct Element_id,Element_name,Element_Type ,psef_code from pr_econe_migration_product_mapping where Element_Type='Pricing' and Element_Type<>'MRC (Attr)' and Element_Type<>'MRC'
+except
+select distinct pricing_Element_code,pricing_Element_name,Pricing_Type,psef from pr_econe_migration_product_uat where Element_Type='Pricing'
+
+2025-12-01 11:36:33,877 - WARNING - 查询未返回结果或执行失败: select distinct Element_id,Element_name,Element_Type ,psef_code from pr_econe_migration_product_mapping where Element_Type='Pricing' and Element_Type<>'MRC (Attr)' and Element_Type<>'MRC'
+except
+select distinct pricing_Element_code,pricing_Element_name,Pricing_Type,psef from pr_econe_migration_product_uat where Element_Type='Pricing'
+
+2025-12-01 11:36:33,877 - INFO - [ID:103][顺序号103]: 执行查询 --> select * from dataeconeucs.pr_econe_migration_product_model a where a.Pricing_Type ='MRC' and a.PSEF_Description  like '%REBATE%' 
+2025-12-01 11:36:33,898 - WARNING - 查询未返回结果或执行失败: select * from dataeconeucs.pr_econe_migration_product_model a where a.Pricing_Type ='MRC' and a.PSEF_Description  like '%REBATE%' 
+2025-12-01 11:36:33,898 - INFO - [ID:104][顺序号104]: 执行查询 --> select * from dataeconeucs.pr_econe_migration_product_model a where a.Pricing_Type ='MRC' and a.Related_MRC_Psef !=''
+2025-12-01 11:36:33,908 - WARNING - 查询未返回结果或执行失败: select * from dataeconeucs.pr_econe_migration_product_model a where a.Pricing_Type ='MRC' and a.Related_MRC_Psef !=''
+2025-12-01 11:36:33,910 - INFO - [ID:105][顺序号105]: 执行查询 --> select a.Product_id ,a.Package_id ,a.Element_id ,a.PSEF,a.Related_MRC_Psef, Related_PAK_Psef from dataeconeucs.pr_econe_migration_product_model a
+where a.Pricing_Type ='MRC'
+group by a.Product_id ,a.Package_id ,a.Element_id ,a.PSEF,a.Related_MRC_Psef,Related_PAK_Psef
+having count(1)>1 
+2025-12-01 11:36:33,920 - WARNING - 查询未返回结果或执行失败: select a.Product_id ,a.Package_id ,a.Element_id ,a.PSEF,a.Related_MRC_Psef, Related_PAK_Psef from dataeconeucs.pr_econe_migration_product_model a
+where a.Pricing_Type ='MRC'
+group by a.Product_id ,a.Package_id ,a.Element_id ,a.PSEF,a.Related_MRC_Psef,Related_PAK_Psef
+having count(1)>1 
+2025-12-01 11:36:33,920 - INFO - [ID:106][顺序号106]: 执行查询 --> select  a.Product_id ,a.Product_name,a.Package_id,a.Package_name ,a.Element_id ,a.Element_name,a.PSEF,a.Element_type,a.pricing_type,a.main_discnt ,a.main_service,a.Related_MRC_Psef,a.Related_PAK_Psef 
+from dataeconeucs.pr_econe_migration_product_model a where a.main_discnt =1
+and a.Pricing_Type not like '%MRC%' 
+2025-12-01 11:36:33,930 - WARNING - 查询未返回结果或执行失败: select  a.Product_id ,a.Product_name,a.Package_id,a.Package_name ,a.Element_id ,a.Element_name,a.PSEF,a.Element_type,a.pricing_type,a.main_discnt ,a.main_service,a.Related_MRC_Psef,a.Related_PAK_Psef 
+from dataeconeucs.pr_econe_migration_product_model a where a.main_discnt =1
+and a.Pricing_Type not like '%MRC%' 
+2025-12-01 11:36:33,931 - INFO - [ID:107][顺序号107]: 执行查询 --> select a.Product_id,a.Element_id,a.PSEF,a.Related_MRC_Psef, Related_PAK_Psef,PSEF_Description,count(1) from dataeconeucs.pr_econe_migration_product_model a
+group by  a.Product_id, a.Element_id ,a.PSEF,a.Related_MRC_Psef, Related_PAK_Psef,PSEF_Description
+having count(1) > 1
+2025-12-01 11:36:33,945 - WARNING - 查询未返回结果或执行失败: select a.Product_id,a.Element_id,a.PSEF,a.Related_MRC_Psef, Related_PAK_Psef,PSEF_Description,count(1) from dataeconeucs.pr_econe_migration_product_model a
+group by  a.Product_id, a.Element_id ,a.PSEF,a.Related_MRC_Psef, Related_PAK_Psef,PSEF_Description
+having count(1) > 1
+2025-12-01 11:36:33,945 - INFO - [ID:108][顺序号108]: 执行查询 --> select a.Product_id,a.Package_id,a.Element_id,a.PSEF,a.Related_MRC_Psef,TP_DAT  from dataeconeucs.pr_econe_migration_product_model  a
+where TP_DAT ='' or TP_DAT is null
+2025-12-01 11:36:33,954 - WARNING - 查询未返回结果或执行失败: select a.Product_id,a.Package_id,a.Element_id,a.PSEF,a.Related_MRC_Psef,TP_DAT  from dataeconeucs.pr_econe_migration_product_model  a
+where TP_DAT ='' or TP_DAT is null
+2025-12-01 11:36:33,954 - INFO - [ID:109][顺序号109]: 执行查询 --> SELECT  a.ELEMENT_ID, a.ELEMENT_NAME,b.ELEMENT_ID as UAT_CRM_ELEMENT_ID, b.ELEMENT_NAME UAT_CRM_ELEMENT_NAME FROM dataeconeucs.pr_econe_migration_product_model a 
+join dataeconeucs.lyy_econe_all_product_info b on a.ELEMENT_NAME = b.ELEMENT_NAME
+except 
+SELECT ELEMENT_ID, ELEMENT_NAME,ELEMENT_ID, ELEMENT_NAME FROM dataeconeucs.lyy_econe_all_product_info;
+
+2025-12-01 11:36:33,997 - INFO - 查询成功，获取到 4 条记录。
+2025-12-01 11:36:33,997 - INFO - [ID:200][顺序号200]: 执行查询 --> SELECT  a.PACKAGE_ID, a.PACKAGE_NAME,b.PACKAGE_ID as UAT_CRM_PACKAGE_ID, b.PACKAGE_NAME UAT_CRM_PACKAGE_NAME 
+FROM dataeconeucs.pr_econe_migration_product_model a join dataeconeucs.lyy_econe_all_product_info b on a.PACKAGE_NAME = b.PACKAGE_NAME
+except 
+SELECT PACKAGE_ID, PACKAGE_NAME,PACKAGE_ID, PACKAGE_NAME FROM dataeconeucs.lyy_econe_all_product_info;
+
+2025-12-01 11:36:34,202 - INFO - 查询成功，获取到 1 条记录。
+2025-12-01 11:36:34,202 - INFO - [ID:201][顺序号201]: 执行查询 --> SELECT  a.PRODUCT_ID, a.PRODUCT_NAME,b.PRODUCT_ID as UAT_CRM_PRODUCT_ID, b.PRODUCT_NAME as UAT_CRM_PRODUCT_NAME
+FROM dataeconeucs.pr_econe_migration_product_model a join dataeconeucs.lyy_econe_all_product_info b on a.PRODUCT_NAME = b.PRODUCT_NAME
+group by  a.PRODUCT_ID, a.PRODUCT_NAME,b.PRODUCT_ID , b.PRODUCT_NAME 
+except 
+SELECT PRODUCT_ID, PRODUCT_NAME,PRODUCT_ID, PRODUCT_NAME FROM dataeconeucs.lyy_econe_all_product_info
+group by  PRODUCT_ID, PRODUCT_NAME,PRODUCT_ID, PRODUCT_NAME;
+2025-12-01 11:36:34,572 - WARNING - 查询未返回结果或执行失败: SELECT  a.PRODUCT_ID, a.PRODUCT_NAME,b.PRODUCT_ID as UAT_CRM_PRODUCT_ID, b.PRODUCT_NAME as UAT_CRM_PRODUCT_NAME
+FROM dataeconeucs.pr_econe_migration_product_model a join dataeconeucs.lyy_econe_all_product_info b on a.PRODUCT_NAME = b.PRODUCT_NAME
+group by  a.PRODUCT_ID, a.PRODUCT_NAME,b.PRODUCT_ID , b.PRODUCT_NAME 
+except 
+SELECT PRODUCT_ID, PRODUCT_NAME,PRODUCT_ID, PRODUCT_NAME FROM dataeconeucs.lyy_econe_all_product_info
+group by  PRODUCT_ID, PRODUCT_NAME,PRODUCT_ID, PRODUCT_NAME;
+2025-12-01 11:36:34,572 - INFO - [ID:202][顺序号202]: 执行查询 --> SELECT t.Service_Element_Code,t.PSEF,t.Source 
+FROM dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+    SELECT Service_Element_Code
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    GROUP BY Service_Element_Code
+    HAVING COUNT(DISTINCT PSEF) > 1
+) problem_codes ON t.Service_Element_Code = problem_codes.Service_Element_Code
+where t.Service_Element_Code<>''
+group by  t.Service_Element_Code,t.PSEF
+ORDER BY t.Service_Element_Code, t.PSEF;
+2025-12-01 11:36:34,588 - WARNING - 查询未返回结果或执行失败: SELECT t.Service_Element_Code,t.PSEF,t.Source 
+FROM dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+    SELECT Service_Element_Code
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    GROUP BY Service_Element_Code
+    HAVING COUNT(DISTINCT PSEF) > 1
+) problem_codes ON t.Service_Element_Code = problem_codes.Service_Element_Code
+where t.Service_Element_Code<>''
+group by  t.Service_Element_Code,t.PSEF
+ORDER BY t.Service_Element_Code, t.PSEF;
+2025-12-01 11:36:34,588 - INFO - [ID:203][顺序号203]: 执行查询 --> SELECT t.Pricing_Element_Code,t.PSEF,t.Source 
+FROM dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+    SELECT Pricing_Element_Code
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    GROUP BY Pricing_Element_Code
+    HAVING COUNT(DISTINCT PSEF) > 1
+) problem_codes ON t.Pricing_Element_Code = problem_codes.Pricing_Element_Code
+where t.Pricing_Element_Code<>''
+group by  t.Pricing_Element_Code,t.PSEF
+ORDER BY t.Pricing_Element_Code, t.PSEF;
+2025-12-01 11:36:34,611 - WARNING - 查询未返回结果或执行失败: SELECT t.Pricing_Element_Code,t.PSEF,t.Source 
+FROM dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+    SELECT Pricing_Element_Code
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    GROUP BY Pricing_Element_Code
+    HAVING COUNT(DISTINCT PSEF) > 1
+) problem_codes ON t.Pricing_Element_Code = problem_codes.Pricing_Element_Code
+where t.Pricing_Element_Code<>''
+group by  t.Pricing_Element_Code,t.PSEF
+ORDER BY t.Pricing_Element_Code, t.PSEF;
+2025-12-01 11:36:34,611 - INFO - [ID:204][顺序号204]: 执行查询 --> SELECT t.Service_Element_Code,t.Service_Element_Name ,t.Main_Service,t.PSEF,t.Source 
+FROM dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+    SELECT Service_Element_Code
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    GROUP BY Service_Element_Code
+    HAVING COUNT(DISTINCT Main_Service) > 1
+) problem_codes ON t.Service_Element_Code = problem_codes.Service_Element_Code
+where t.Service_Element_Code<>''
+group by  t.Service_Element_Code,t.Service_Element_Name ,t.PSEF,t.Main_Service
+ORDER BY t.Service_Element_Code, t.PSEF,t.Main_Service;
+2025-12-01 11:36:34,627 - WARNING - 查询未返回结果或执行失败: SELECT t.Service_Element_Code,t.Service_Element_Name ,t.Main_Service,t.PSEF,t.Source 
+FROM dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+    SELECT Service_Element_Code
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    GROUP BY Service_Element_Code
+    HAVING COUNT(DISTINCT Main_Service) > 1
+) problem_codes ON t.Service_Element_Code = problem_codes.Service_Element_Code
+where t.Service_Element_Code<>''
+group by  t.Service_Element_Code,t.Service_Element_Name ,t.PSEF,t.Main_Service
+ORDER BY t.Service_Element_Code, t.PSEF,t.Main_Service;
+2025-12-01 11:36:34,628 - INFO - [ID:205][顺序号205]: 执行查询 --> SELECT t.Pricing_Element_Code,t.Pricing_Element_Name,t.Main_Price,t.PSEF,t.Source 
+FROM dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+    SELECT Pricing_Element_Code
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    GROUP BY Pricing_Element_Code
+    HAVING COUNT(DISTINCT Main_Price) > 1
+) problem_codes ON t.Pricing_Element_Code = problem_codes.Pricing_Element_Code
+where t.Pricing_Element_Code<>''
+group by  t.Pricing_Element_Code,t.Pricing_Element_Name,t.PSEF,t.Main_Price
+ORDER BY t.Pricing_Element_Code, t.PSEF,t.Main_Price;
+2025-12-01 11:36:34,646 - WARNING - 查询未返回结果或执行失败: SELECT t.Pricing_Element_Code,t.Pricing_Element_Name,t.Main_Price,t.PSEF,t.Source 
+FROM dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+    SELECT Pricing_Element_Code
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    GROUP BY Pricing_Element_Code
+    HAVING COUNT(DISTINCT Main_Price) > 1
+) problem_codes ON t.Pricing_Element_Code = problem_codes.Pricing_Element_Code
+where t.Pricing_Element_Code<>''
+group by  t.Pricing_Element_Code,t.Pricing_Element_Name,t.PSEF,t.Main_Price
+ORDER BY t.Pricing_Element_Code, t.PSEF,t.Main_Price;
+2025-12-01 11:36:34,646 - INFO - [ID:206][顺序号206]: 执行查询 --> SELECT t.Product_Code, t.Product_Name,t.Service_Element_Code, t.PSEF, t.code_type,t.Source  FROM  dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+     SELECT Service_Element_Code,PSEF
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    where Service_Element_Code<> '' and PSEF<> ''
+    GROUP BY Service_Element_Code,PSEF
+    HAVING COUNT(distinct code_type) > 1
+) problem_codes 
+ON t.Service_Element_Code = problem_codes.Service_Element_Code
+WHERE  t.Service_Element_Code <> ''
+ORDER BY t.Product_Code, t.Service_Element_Code, t.PSEF;
+2025-12-01 11:36:34,670 - WARNING - 查询未返回结果或执行失败: SELECT t.Product_Code, t.Product_Name,t.Service_Element_Code, t.PSEF, t.code_type,t.Source  FROM  dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+     SELECT Service_Element_Code,PSEF
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    where Service_Element_Code<> '' and PSEF<> ''
+    GROUP BY Service_Element_Code,PSEF
+    HAVING COUNT(distinct code_type) > 1
+) problem_codes 
+ON t.Service_Element_Code = problem_codes.Service_Element_Code
+WHERE  t.Service_Element_Code <> ''
+ORDER BY t.Product_Code, t.Service_Element_Code, t.PSEF;
+2025-12-01 11:36:34,670 - INFO - [ID:207][顺序号207]: 执行查询 --> SELECT t.Product_Code, t.Product_Name,t.Service_Element_Code, t.PSEF, t.code_type,t.TPDAT,t.Source FROM  dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+     SELECT Product_Code,TPDAT
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    where Product_Code<> '' 
+    GROUP BY Product_Code,TPDAT
+    HAVING COUNT(distinct TPDAT) > 1
+) problem_codes 
+ON t.Product_Code = problem_codes.Product_Code
+WHERE  t.Service_Element_Code <> ''
+ORDER BY t.Product_Code, t.Service_Element_Code, t.PSEF,t.TPDAT;
+2025-12-01 11:36:34,699 - WARNING - 查询未返回结果或执行失败: SELECT t.Product_Code, t.Product_Name,t.Service_Element_Code, t.PSEF, t.code_type,t.TPDAT,t.Source FROM  dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+     SELECT Product_Code,TPDAT
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    where Product_Code<> '' 
+    GROUP BY Product_Code,TPDAT
+    HAVING COUNT(distinct TPDAT) > 1
+) problem_codes 
+ON t.Product_Code = problem_codes.Product_Code
+WHERE  t.Service_Element_Code <> ''
+ORDER BY t.Product_Code, t.Service_Element_Code, t.PSEF,t.TPDAT;
+2025-12-01 11:36:34,700 - INFO - [ID:300][顺序号300]: 执行查询 --> select UNIQUE_ID ,DEAL_NAME  from  batch_deal_config bdc where 	DEAL_FLAG='pr_econe_ucs_query' 
+2025-12-01 11:36:34,710 - INFO - 查询成功，获取到 19 条记录。
+2025-12-01 11:41:33,400 - INFO - ☆ 数据成功保存到文件: D:\2025\AI\exe\migration_tools\import_excel\query_result.xlsx
+2025-12-01 11:41:33,402 - INFO - SQL查询并导出到Excel的操作已完成。
+2025-12-01 11:43:33,885 - INFO - 程序开始了！！！！
+2025-12-01 11:43:42,892 - INFO - 开始执行SQL查询并导出到Excel...
+2025-12-01 11:43:46,523 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-01 11:43:46,618 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-01 11:44:04,971 - INFO - 根据执行标识'pr_econe_ucs_query'查询到【19】条SQL记录. 
+
+2025-12-01 11:44:15,816 - INFO - [ID:100][顺序号100]: 执行查询 --> select distinct Product_id, Product_name, Package_id ,Package_name,Element_id ,Element_name  from pr_econe_migration_product_mapping where Element_Type ='Pricing'
+except
+select distinct Product_Code, Product_Name,Package_Code ,Package_name,pricing_Element_code ,pricing_Element_name  from pr_econe_migration_product_uat
+
+2025-12-01 11:44:15,837 - WARNING - 查询未返回结果或执行失败: select distinct Product_id, Product_name, Package_id ,Package_name,Element_id ,Element_name  from pr_econe_migration_product_mapping where Element_Type ='Pricing'
+except
+select distinct Product_Code, Product_Name,Package_Code ,Package_name,pricing_Element_code ,pricing_Element_name  from pr_econe_migration_product_uat
+
+2025-12-01 11:44:15,838 - INFO - [ID:101][顺序号101]: 执行查询 --> select distinct Product_id, Product_name, Package_id ,Package_name,Element_id ,Element_name  from pr_econe_migration_product_mapping where Element_Type ='Service' 
+except
+select distinct Product_Code, Product_Name,Package_Code ,Package_name,Service_Element_code ,Service_Element_name  from pr_econe_migration_product_uat 
+
+2025-12-01 11:44:15,881 - INFO - 查询成功，获取到 2 条记录。
+2025-12-01 11:44:15,882 - INFO - [ID:102][顺序号102]: 执行查询 --> select distinct Element_id,Element_name,Element_Type ,psef_code from pr_econe_migration_product_mapping where Element_Type='Pricing' and Element_Type<>'MRC (Attr)' and Element_Type<>'MRC'
+except
+select distinct pricing_Element_code,pricing_Element_name,Pricing_Type,psef from pr_econe_migration_product_uat where Element_Type='Pricing'
+
+2025-12-01 11:44:15,891 - WARNING - 查询未返回结果或执行失败: select distinct Element_id,Element_name,Element_Type ,psef_code from pr_econe_migration_product_mapping where Element_Type='Pricing' and Element_Type<>'MRC (Attr)' and Element_Type<>'MRC'
+except
+select distinct pricing_Element_code,pricing_Element_name,Pricing_Type,psef from pr_econe_migration_product_uat where Element_Type='Pricing'
+
+2025-12-01 11:44:15,891 - INFO - [ID:103][顺序号103]: 执行查询 --> select * from dataeconeucs.pr_econe_migration_product_model a where a.Pricing_Type ='MRC' and a.PSEF_Description  like '%REBATE%' 
+2025-12-01 11:44:15,919 - WARNING - 查询未返回结果或执行失败: select * from dataeconeucs.pr_econe_migration_product_model a where a.Pricing_Type ='MRC' and a.PSEF_Description  like '%REBATE%' 
+2025-12-01 11:44:15,920 - INFO - [ID:104][顺序号104]: 执行查询 --> select * from dataeconeucs.pr_econe_migration_product_model a where a.Pricing_Type ='MRC' and a.Related_MRC_Psef !=''
+2025-12-01 11:44:15,933 - WARNING - 查询未返回结果或执行失败: select * from dataeconeucs.pr_econe_migration_product_model a where a.Pricing_Type ='MRC' and a.Related_MRC_Psef !=''
+2025-12-01 11:44:15,934 - INFO - [ID:105][顺序号105]: 执行查询 --> select a.Product_id ,a.Package_id ,a.Element_id ,a.PSEF,a.Related_MRC_Psef, Related_PAK_Psef from dataeconeucs.pr_econe_migration_product_model a
+where a.Pricing_Type ='MRC'
+group by a.Product_id ,a.Package_id ,a.Element_id ,a.PSEF,a.Related_MRC_Psef,Related_PAK_Psef
+having count(1)>1 
+2025-12-01 11:44:15,945 - WARNING - 查询未返回结果或执行失败: select a.Product_id ,a.Package_id ,a.Element_id ,a.PSEF,a.Related_MRC_Psef, Related_PAK_Psef from dataeconeucs.pr_econe_migration_product_model a
+where a.Pricing_Type ='MRC'
+group by a.Product_id ,a.Package_id ,a.Element_id ,a.PSEF,a.Related_MRC_Psef,Related_PAK_Psef
+having count(1)>1 
+2025-12-01 11:44:15,945 - INFO - [ID:106][顺序号106]: 执行查询 --> select  a.Product_id ,a.Product_name,a.Package_id,a.Package_name ,a.Element_id ,a.Element_name,a.PSEF,a.Element_type,a.pricing_type,a.main_discnt ,a.main_service,a.Related_MRC_Psef,a.Related_PAK_Psef 
+from dataeconeucs.pr_econe_migration_product_model a where a.main_discnt =1
+and a.Pricing_Type not like '%MRC%' 
+2025-12-01 11:44:15,957 - WARNING - 查询未返回结果或执行失败: select  a.Product_id ,a.Product_name,a.Package_id,a.Package_name ,a.Element_id ,a.Element_name,a.PSEF,a.Element_type,a.pricing_type,a.main_discnt ,a.main_service,a.Related_MRC_Psef,a.Related_PAK_Psef 
+from dataeconeucs.pr_econe_migration_product_model a where a.main_discnt =1
+and a.Pricing_Type not like '%MRC%' 
+2025-12-01 11:44:15,957 - INFO - [ID:107][顺序号107]: 执行查询 --> select a.Product_id,a.Element_id,a.PSEF,a.Related_MRC_Psef, Related_PAK_Psef,PSEF_Description,count(1) from dataeconeucs.pr_econe_migration_product_model a
+group by  a.Product_id, a.Element_id ,a.PSEF,a.Related_MRC_Psef, Related_PAK_Psef,PSEF_Description
+having count(1) > 1
+2025-12-01 11:44:15,973 - WARNING - 查询未返回结果或执行失败: select a.Product_id,a.Element_id,a.PSEF,a.Related_MRC_Psef, Related_PAK_Psef,PSEF_Description,count(1) from dataeconeucs.pr_econe_migration_product_model a
+group by  a.Product_id, a.Element_id ,a.PSEF,a.Related_MRC_Psef, Related_PAK_Psef,PSEF_Description
+having count(1) > 1
+2025-12-01 11:44:15,974 - INFO - [ID:108][顺序号108]: 执行查询 --> select a.Product_id,a.Package_id,a.Element_id,a.PSEF,a.Related_MRC_Psef,TP_DAT  from dataeconeucs.pr_econe_migration_product_model  a
+where TP_DAT ='' or TP_DAT is null
+2025-12-01 11:44:15,984 - WARNING - 查询未返回结果或执行失败: select a.Product_id,a.Package_id,a.Element_id,a.PSEF,a.Related_MRC_Psef,TP_DAT  from dataeconeucs.pr_econe_migration_product_model  a
+where TP_DAT ='' or TP_DAT is null
+2025-12-01 11:44:15,986 - INFO - [ID:109][顺序号109]: 执行查询 --> SELECT  a.ELEMENT_ID, a.ELEMENT_NAME,b.ELEMENT_ID as UAT_CRM_ELEMENT_ID, b.ELEMENT_NAME UAT_CRM_ELEMENT_NAME FROM dataeconeucs.pr_econe_migration_product_model a 
+join dataeconeucs.lyy_econe_all_product_info b on a.ELEMENT_NAME = b.ELEMENT_NAME
+except 
+SELECT ELEMENT_ID, ELEMENT_NAME,ELEMENT_ID, ELEMENT_NAME FROM dataeconeucs.lyy_econe_all_product_info;
+
+2025-12-01 11:44:16,036 - INFO - 查询成功，获取到 4 条记录。
+2025-12-01 11:44:16,036 - INFO - [ID:200][顺序号200]: 执行查询 --> SELECT  a.PACKAGE_ID, a.PACKAGE_NAME,b.PACKAGE_ID as UAT_CRM_PACKAGE_ID, b.PACKAGE_NAME UAT_CRM_PACKAGE_NAME 
+FROM dataeconeucs.pr_econe_migration_product_model a join dataeconeucs.lyy_econe_all_product_info b on a.PACKAGE_NAME = b.PACKAGE_NAME
+except 
+SELECT PACKAGE_ID, PACKAGE_NAME,PACKAGE_ID, PACKAGE_NAME FROM dataeconeucs.lyy_econe_all_product_info;
+
+2025-12-01 11:44:16,243 - INFO - 查询成功，获取到 1 条记录。
+2025-12-01 11:44:16,243 - INFO - [ID:201][顺序号201]: 执行查询 --> SELECT  a.PRODUCT_ID, a.PRODUCT_NAME,b.PRODUCT_ID as UAT_CRM_PRODUCT_ID, b.PRODUCT_NAME as UAT_CRM_PRODUCT_NAME
+FROM dataeconeucs.pr_econe_migration_product_model a join dataeconeucs.lyy_econe_all_product_info b on a.PRODUCT_NAME = b.PRODUCT_NAME
+group by  a.PRODUCT_ID, a.PRODUCT_NAME,b.PRODUCT_ID , b.PRODUCT_NAME 
+except 
+SELECT PRODUCT_ID, PRODUCT_NAME,PRODUCT_ID, PRODUCT_NAME FROM dataeconeucs.lyy_econe_all_product_info
+group by  PRODUCT_ID, PRODUCT_NAME,PRODUCT_ID, PRODUCT_NAME;
+2025-12-01 11:44:16,619 - WARNING - 查询未返回结果或执行失败: SELECT  a.PRODUCT_ID, a.PRODUCT_NAME,b.PRODUCT_ID as UAT_CRM_PRODUCT_ID, b.PRODUCT_NAME as UAT_CRM_PRODUCT_NAME
+FROM dataeconeucs.pr_econe_migration_product_model a join dataeconeucs.lyy_econe_all_product_info b on a.PRODUCT_NAME = b.PRODUCT_NAME
+group by  a.PRODUCT_ID, a.PRODUCT_NAME,b.PRODUCT_ID , b.PRODUCT_NAME 
+except 
+SELECT PRODUCT_ID, PRODUCT_NAME,PRODUCT_ID, PRODUCT_NAME FROM dataeconeucs.lyy_econe_all_product_info
+group by  PRODUCT_ID, PRODUCT_NAME,PRODUCT_ID, PRODUCT_NAME;
+2025-12-01 11:44:16,619 - INFO - [ID:202][顺序号202]: 执行查询 --> SELECT t.Service_Element_Code,t.PSEF,t.Source 
+FROM dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+    SELECT Service_Element_Code
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    GROUP BY Service_Element_Code
+    HAVING COUNT(DISTINCT PSEF) > 1
+) problem_codes ON t.Service_Element_Code = problem_codes.Service_Element_Code
+where t.Service_Element_Code<>''
+group by  t.Service_Element_Code,t.PSEF
+ORDER BY t.Service_Element_Code, t.PSEF;
+2025-12-01 11:44:16,636 - WARNING - 查询未返回结果或执行失败: SELECT t.Service_Element_Code,t.PSEF,t.Source 
+FROM dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+    SELECT Service_Element_Code
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    GROUP BY Service_Element_Code
+    HAVING COUNT(DISTINCT PSEF) > 1
+) problem_codes ON t.Service_Element_Code = problem_codes.Service_Element_Code
+where t.Service_Element_Code<>''
+group by  t.Service_Element_Code,t.PSEF
+ORDER BY t.Service_Element_Code, t.PSEF;
+2025-12-01 11:44:16,637 - INFO - [ID:203][顺序号203]: 执行查询 --> SELECT t.Pricing_Element_Code,t.PSEF,t.Source 
+FROM dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+    SELECT Pricing_Element_Code
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    GROUP BY Pricing_Element_Code
+    HAVING COUNT(DISTINCT PSEF) > 1
+) problem_codes ON t.Pricing_Element_Code = problem_codes.Pricing_Element_Code
+where t.Pricing_Element_Code<>''
+group by  t.Pricing_Element_Code,t.PSEF
+ORDER BY t.Pricing_Element_Code, t.PSEF;
+2025-12-01 11:44:16,655 - WARNING - 查询未返回结果或执行失败: SELECT t.Pricing_Element_Code,t.PSEF,t.Source 
+FROM dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+    SELECT Pricing_Element_Code
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    GROUP BY Pricing_Element_Code
+    HAVING COUNT(DISTINCT PSEF) > 1
+) problem_codes ON t.Pricing_Element_Code = problem_codes.Pricing_Element_Code
+where t.Pricing_Element_Code<>''
+group by  t.Pricing_Element_Code,t.PSEF
+ORDER BY t.Pricing_Element_Code, t.PSEF;
+2025-12-01 11:44:16,656 - INFO - [ID:204][顺序号204]: 执行查询 --> SELECT t.Service_Element_Code,t.Service_Element_Name ,t.Main_Service,t.PSEF,t.Source 
+FROM dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+    SELECT Service_Element_Code
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    GROUP BY Service_Element_Code
+    HAVING COUNT(DISTINCT Main_Service) > 1
+) problem_codes ON t.Service_Element_Code = problem_codes.Service_Element_Code
+where t.Service_Element_Code<>''
+group by  t.Service_Element_Code,t.Service_Element_Name ,t.PSEF,t.Main_Service
+ORDER BY t.Service_Element_Code, t.PSEF,t.Main_Service;
+2025-12-01 11:44:16,676 - WARNING - 查询未返回结果或执行失败: SELECT t.Service_Element_Code,t.Service_Element_Name ,t.Main_Service,t.PSEF,t.Source 
+FROM dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+    SELECT Service_Element_Code
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    GROUP BY Service_Element_Code
+    HAVING COUNT(DISTINCT Main_Service) > 1
+) problem_codes ON t.Service_Element_Code = problem_codes.Service_Element_Code
+where t.Service_Element_Code<>''
+group by  t.Service_Element_Code,t.Service_Element_Name ,t.PSEF,t.Main_Service
+ORDER BY t.Service_Element_Code, t.PSEF,t.Main_Service;
+2025-12-01 11:44:16,676 - INFO - [ID:205][顺序号205]: 执行查询 --> SELECT t.Pricing_Element_Code,t.Pricing_Element_Name,t.Main_Price,t.PSEF,t.Source 
+FROM dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+    SELECT Pricing_Element_Code
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    GROUP BY Pricing_Element_Code
+    HAVING COUNT(DISTINCT Main_Price) > 1
+) problem_codes ON t.Pricing_Element_Code = problem_codes.Pricing_Element_Code
+where t.Pricing_Element_Code<>''
+group by  t.Pricing_Element_Code,t.Pricing_Element_Name,t.PSEF,t.Main_Price
+ORDER BY t.Pricing_Element_Code, t.PSEF,t.Main_Price;
+2025-12-01 11:44:16,695 - WARNING - 查询未返回结果或执行失败: SELECT t.Pricing_Element_Code,t.Pricing_Element_Name,t.Main_Price,t.PSEF,t.Source 
+FROM dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+    SELECT Pricing_Element_Code
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    GROUP BY Pricing_Element_Code
+    HAVING COUNT(DISTINCT Main_Price) > 1
+) problem_codes ON t.Pricing_Element_Code = problem_codes.Pricing_Element_Code
+where t.Pricing_Element_Code<>''
+group by  t.Pricing_Element_Code,t.Pricing_Element_Name,t.PSEF,t.Main_Price
+ORDER BY t.Pricing_Element_Code, t.PSEF,t.Main_Price;
+2025-12-01 11:44:16,695 - INFO - [ID:206][顺序号206]: 执行查询 --> SELECT t.Product_Code, t.Product_Name,t.Service_Element_Code, t.PSEF, t.code_type,t.Source  FROM  dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+     SELECT Service_Element_Code,PSEF
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    where Service_Element_Code<> '' and PSEF<> ''
+    GROUP BY Service_Element_Code,PSEF
+    HAVING COUNT(distinct code_type) > 1
+) problem_codes 
+ON t.Service_Element_Code = problem_codes.Service_Element_Code
+WHERE  t.Service_Element_Code <> ''
+ORDER BY t.Product_Code, t.Service_Element_Code, t.PSEF;
+2025-12-01 11:44:16,720 - WARNING - 查询未返回结果或执行失败: SELECT t.Product_Code, t.Product_Name,t.Service_Element_Code, t.PSEF, t.code_type,t.Source  FROM  dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+     SELECT Service_Element_Code,PSEF
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    where Service_Element_Code<> '' and PSEF<> ''
+    GROUP BY Service_Element_Code,PSEF
+    HAVING COUNT(distinct code_type) > 1
+) problem_codes 
+ON t.Service_Element_Code = problem_codes.Service_Element_Code
+WHERE  t.Service_Element_Code <> ''
+ORDER BY t.Product_Code, t.Service_Element_Code, t.PSEF;
+2025-12-01 11:44:16,720 - INFO - [ID:207][顺序号207]: 执行查询 --> SELECT t.Product_Code, t.Product_Name,t.Service_Element_Code, t.PSEF, t.code_type,t.TPDAT,t.Source FROM  dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+     SELECT Product_Code,TPDAT
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    where Product_Code<> '' 
+    GROUP BY Product_Code,TPDAT
+    HAVING COUNT(distinct TPDAT) > 1
+) problem_codes 
+ON t.Product_Code = problem_codes.Product_Code
+WHERE  t.Service_Element_Code <> ''
+ORDER BY t.Product_Code, t.Service_Element_Code, t.PSEF,t.TPDAT;
+2025-12-01 11:44:16,749 - WARNING - 查询未返回结果或执行失败: SELECT t.Product_Code, t.Product_Name,t.Service_Element_Code, t.PSEF, t.code_type,t.TPDAT,t.Source FROM  dataeconeucs.pr_econe_migration_product_uat t
+JOIN (
+     SELECT Product_Code,TPDAT
+    FROM dataeconeucs.pr_econe_migration_product_uat
+    where Product_Code<> '' 
+    GROUP BY Product_Code,TPDAT
+    HAVING COUNT(distinct TPDAT) > 1
+) problem_codes 
+ON t.Product_Code = problem_codes.Product_Code
+WHERE  t.Service_Element_Code <> ''
+ORDER BY t.Product_Code, t.Service_Element_Code, t.PSEF,t.TPDAT;
+2025-12-01 11:44:16,750 - INFO - [ID:300][顺序号300]: 执行查询 --> select UNIQUE_ID ,DEAL_NAME  from  batch_deal_config bdc where 	DEAL_FLAG='pr_econe_ucs_query' 
+2025-12-01 11:44:16,762 - INFO - 查询成功，获取到 19 条记录。
+2025-12-01 16:50:22,736 - INFO - 程序开始了！！！！
+2025-12-01 16:50:36,112 - INFO - 开始执行SQL查询并导出到Excel...
+2025-12-01 16:50:39,161 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-01 16:50:39,259 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-01 16:53:06,154 - INFO - 程序开始了！！！！
+2025-12-01 16:53:11,793 - INFO - 开始执行SQL查询并导出到Excel...
+2025-12-01 16:53:14,322 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-01 16:53:14,659 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-01 16:53:42,556 - INFO - 根据执行标识'pr_econe_ucs_query'查询不到待执行的数据。
+
+2025-12-01 16:53:54,620 - INFO - 程序开始了！！！！
+2025-12-01 16:54:00,803 - INFO - 开始执行SQL查询并导出到Excel...
+2025-12-01 16:54:04,064 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-01 16:54:04,157 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-01 17:10:28,933 - INFO - 程序开始了！！！！
+2025-12-01 17:10:39,073 - INFO - 开始执行SQL查询并导出到Excel...
+2025-12-01 17:10:42,889 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-01 17:10:43,012 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-01 17:10:57,778 - INFO - 程序开始了！！！！
+2025-12-02 14:50:49,960 - INFO - 程序开始了！！！！
+2025-12-02 14:50:53,523 - INFO - 开始表数据迁移...
+2025-12-02 14:51:09,097 - INFO - 选择的数据库: asmtiger (10.168.180.66:3306/mASMTIGERDCON01)
+2025-12-02 14:51:09,212 - INFO - 成功连接到数据库: asmtiger
+
+2025-12-02 14:53:04,338 - INFO - 程序开始了！！！！
+2025-12-02 14:53:09,433 - INFO - 开始表数据迁移...
+2025-12-02 14:53:13,130 - INFO - 选择的数据库: asmtiger (10.168.180.66:3306/mASMTIGERDCON01)
+2025-12-02 14:53:13,246 - INFO - 成功连接到数据库: asmtiger
+
+2025-12-02 14:53:29,538 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-02 14:53:29,867 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-02 14:55:44,629 - INFO - 正在从源表 'migration_product_model_r54' 读取数据...
+2025-12-02 14:55:45,552 - INFO - 成功从源表读取 19540 条数据。
+2025-12-02 14:55:45,552 - INFO - 正在向目标表 'migration_product_model_r54_1' 插入数据...
+2025-12-02 14:55:46,849 - INFO - 成功迁移 19540 条数据到目标表 'migration_product_model_r54_1'。
+2025-12-02 14:55:46,849 - INFO - 数据迁移完成。
+2025-12-09 17:44:44,031 - INFO - 程序开始了！！！！
+2025-12-09 17:44:47,628 - INFO - 执行mysql批量执行功能板块
+
+2025-12-09 17:44:50,814 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-09 17:44:50,964 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-09 17:44:51,107 - ERROR - 程序发生未处理的异常: query_deal_flag() missing 1 required positional argument: 'menu_choice'
+Traceback (most recent call last):
+  File "D:\2025\AI\exe\migration_tools\main.py", line 43, in <module>
+    choose_menu()
+  File "D:\2025\AI\exe\migration_tools\main.py", line 16, in choose_menu
+    mysqlBatchExecuteService.mysql_batch_execute()
+  File "D:\2025\AI\exe\migration_tools\service\mysqlBatchExecuteService.py", line 28, in mysql_batch_execute
+    mysqlBatchExecuteDao.query_deal_flag(connection)
+TypeError: query_deal_flag() missing 1 required positional argument: 'menu_choice'
+2025-12-09 17:46:36,145 - INFO - 程序开始了！！！！
+2025-12-09 17:46:39,627 - INFO - 执行mysql批量执行功能板块
+
+2025-12-09 17:46:42,261 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-09 17:46:42,371 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-13 17:35:57,699 - INFO - 程序开始了！！！！
+2025-12-13 17:38:08,130 - INFO - 开始执行直接SQL查询并导出到Excel...
+2025-12-13 17:38:12,756 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-13 17:38:13,157 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-13 17:38:21,849 - INFO - 准备执行查询: select a.service_number ,a.psefo_code,a.package_ref_code,b.product_id,b.package_id,b.element_id,b.PSEF,b.element_type,b.main_service ,b.main_discnt,b.Related_PAK_Psef,b.Related_MRC_Psef,b.TP_DAT ,b.Source  from b_subscription_bus a
+2025-12-13 17:38:21,865 - ERROR - Error executing streaming query: (1054, "Unknown column 'b.product_id' in 'field list'")
+2025-12-13 17:38:21,866 - ERROR - 查询执行失败，请检查SQL语句或数据库连接。
+2025-12-13 17:39:03,843 - INFO - 开始执行直接SQL查询并导出到Excel...
+2025-12-13 17:39:08,531 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-13 17:39:09,343 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-13 17:39:15,150 - INFO - 准备执行查询: select a.service_number ,a.psefo_code,a.package_ref_code,b.product_id,b.package_id,b.element_id,b.PSEF,b.element_type,b.main_service ,b.main_discnt,b.Related_PAK_Psef,b.Related_MRC_Psef,b.TP_DAT ,b.Source  from b_subscription_bus a
+2025-12-13 17:39:15,173 - ERROR - Error executing streaming query: (1054, "Unknown column 'b.product_id' in 'field list'")
+2025-12-13 17:39:15,173 - ERROR - 查询执行失败，请检查SQL语句或数据库连接。
+2025-12-13 17:58:28,875 - INFO - 程序开始了！！！！
+2025-12-13 17:58:38,633 - INFO - 开始执行直接SQL查询并导出到Excel...
+2025-12-13 17:58:40,930 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-13 17:58:42,067 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-13 17:58:42,169 - INFO - DEBUG: 当前连接的数据库信息: Host=10.168.180.66, Database=b'dataeconeucs'
+2025-12-13 17:59:05,539 - INFO - 准备执行查询: select b.product_id,b.package_id,b.element_id,b.PSEF,b.element_type,b.main_service ,b.main_discnt,b.Related_PAK_Psef,b.Related_MRC_Psef,b.TP_DAT ,b.Source from migration_product_model_pr69 b where PSEF = '7EFF';
+2025-12-13 17:59:05,568 - INFO - 查询成功，开始将结果流式写入到文件: direct_query_result_20251213175905.xlsx
+2025-12-13 17:59:05,568 - INFO - ☆ 创建输出文件夹: D:\2025\AI\exe\migration_tools\output_excel
+2025-12-13 17:59:05,588 - INFO - 已写入 2 行...
+2025-12-13 17:59:05,608 - INFO - 成功将 2 条记录写入Excel文件。
+2025-12-13 17:59:05,608 - INFO - 直接SQL查询并导出到Excel的操作已完成。
+2025-12-13 17:59:16,432 - INFO - 开始执行直接SQL查询并导出到Excel...
+2025-12-13 17:59:18,328 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-13 17:59:19,305 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-13 17:59:19,406 - INFO - DEBUG: 当前连接的数据库信息: Host=10.168.180.66, Database=b'dataeconeucs'
+2025-12-13 18:00:08,664 - INFO - 准备执行查询: select a.service_number ,a.psefo_code,a.package_ref_code,b.product_id,b.package_id,b.element_id,b.PSEF,b.element_type,b.main_service ,b.main_discnt,b.Related_PAK_Psef,b.Related_MRC_Psef,b.TP_DAT ,b.Source  from b_subscription_bus a
+2025-12-13 18:00:08,922 - ERROR - Error executing streaming query: (1054, "Unknown column 'b.product_id' in 'field list'")
+2025-12-13 18:00:08,922 - ERROR - 查询执行失败，请检查SQL语句或数据库连接。
+2025-12-13 18:07:10,161 - INFO - 程序开始了！！！！
+2025-12-13 18:08:59,639 - INFO - 开始执行直接SQL查询并导出到Excel...
+2025-12-13 18:09:02,312 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-13 18:09:02,790 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-13 18:09:02,891 - INFO - DEBUG: 当前连接的数据库信息: Host=10.168.180.66, Database=b'dataeconeucs'
+2025-12-13 18:09:58,568 - WARNING - 无效的行数，将使用默认值 100000。
+2025-12-13 18:09:58,570 - INFO - 查询将以每页 100000 行进行分页，结果将保存到: direct_query_result_20251213180958.xlsx
+2025-12-13 18:09:58,571 - INFO - Executing paginated query (page 1): select a.service_number ,a.psefo_code,a.package_ref_code,b.product_id,b.package_id,b.element_id,b.PSEF,b.element_type,b.main_service ,b.main_discnt,b.Related_PAK_Psef,b.Related_MRC_Psef,b.TP_DAT ,b.Source  from b_subscription_bus a LIMIT 100000 OFFSET 0
+2025-12-13 18:09:58,928 - ERROR - Error executing streaming query: (1054, "Unknown column 'b.product_id' in 'field list'")
+2025-12-13 18:09:58,928 - ERROR - Paginated query execution failed.
+2025-12-13 18:09:58,938 - ERROR - ☆ 保存Excel文件时出错: At least one sheet must be visible
+2025-12-13 18:09:58,939 - INFO - 查询没有返回任何数据，或写入过程中发生错误。
+2025-12-13 18:09:58,939 - INFO - 直接SQL查询并导出到Excel的操作已完成。
+2025-12-13 18:12:26,639 - INFO - 开始执行直接SQL查询并导出到Excel...
+2025-12-13 18:12:28,615 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-13 18:12:31,547 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-13 18:12:31,649 - INFO - DEBUG: 当前连接的数据库信息: Host=10.168.180.66, Database=b'dataeconeucs'
+2025-12-13 18:13:11,591 - INFO - 查询将以每页 100000 行进行分页，结果将保存到: direct_query_result_20251213181311.xlsx
+2025-12-13 18:13:11,594 - INFO - Executing paginated query (page 1): select * from b_subscription_bus LIMIT 100000 OFFSET 0
+2025-12-13 18:19:39,634 - INFO - 已写入 100000 行 (总计: 100000)...
+2025-12-13 18:19:39,634 - INFO - Executing paginated query (page 2): select * from b_subscription_bus LIMIT 100000 OFFSET 100000
+2025-12-13 18:24:14,700 - INFO - 已写入 100000 行 (总计: 200000)...
+2025-12-13 18:24:14,700 - INFO - Executing paginated query (page 3): select * from b_subscription_bus LIMIT 100000 OFFSET 200000
+2025-12-13 18:24:49,264 - INFO - 已写入 14902 行 (总计: 214902)...
+2025-12-13 18:24:49,264 - INFO - Last page fetched. Ending pagination.
+2025-12-13 18:25:32,955 - INFO - 成功将 214902 条记录写入Excel文件。
+2025-12-13 18:25:32,955 - INFO - 直接SQL查询并导出到Excel的操作已完成。
+2025-12-13 18:29:19,819 - INFO - 程序开始了！！！！
+2025-12-13 18:29:22,326 - INFO - 开始执行直接SQL查询并导出到Excel...
+2025-12-13 18:29:24,350 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-13 18:29:26,791 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-13 18:29:26,893 - INFO - DEBUG: 当前连接的数据库信息: Host=10.168.180.66, Database=b'dataeconeucs'
+2025-12-13 18:29:45,781 - INFO - 查询将以每页 100000 行进行分页，结果将保存到: direct_query_result_20251213182945.xlsx
+2025-12-13 18:29:45,784 - INFO - Executing paginated query (page 1): select a.service_number ,a.psefo_code,a.package_ref_code,b.product_id,b.package_id,b.element_id,b.PSEF,b.element_type,b.main_service ,b.main_discnt,b.Related_PAK_Psef,b.Related_MRC_Psef,b.TP_DAT ,b.Source  from b_subscription_bus a left join migration_product_model b on (b.PSEF = a.psefo_code and (a.package_ref_code=b.Related_PAK_Psef or (a.package_ref_code is null and b.Related_PAK_Psef='')))   ； LIMIT 100000 OFFSET 0
+2025-12-13 18:29:45,811 - ERROR - Error executing streaming query: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '； LIMIT 100000 OFFSET 0' at line 1")
+2025-12-13 18:29:45,811 - ERROR - Paginated query execution failed.
+2025-12-13 18:29:45,816 - ERROR - ☆ 保存Excel文件时出错: At least one sheet must be visible
+2025-12-13 18:29:45,817 - INFO - 查询没有返回任何数据，或写入过程中发生错误。
+2025-12-13 18:29:45,817 - INFO - 直接SQL查询并导出到Excel的操作已完成。
+2025-12-13 18:31:31,845 - INFO - 程序开始了！！！！
+2025-12-13 18:31:37,717 - INFO - 开始执行直接SQL查询并导出到Excel...
+2025-12-13 18:31:40,447 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-13 18:31:40,718 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-13 18:31:40,819 - INFO - DEBUG: 当前连接的数据库信息: Host=10.168.180.66, Database=b'dataeconeucs'
+2025-12-13 18:31:48,863 - INFO - 查询将以每页 100000 行进行分页，结果将保存到: direct_query_result_20251213183148.xlsx
+2025-12-13 18:31:48,865 - INFO - Executing paginated query (page 1): select a.service_number ,a.psefo_code,a.package_ref_code,b.product_id,b.package_id,b.element_id,b.PSEF,b.element_type,b.main_service ,b.main_discnt,b.Related_PAK_Psef,b.Related_MRC_Psef,b.TP_DAT ,b.Source   from b_subscription_bus a left join migration_product_model b  on (b.PSEF = a.psefo_code and (a.package_ref_code=b.Related_PAK_Psef or (a.package_ref_code is null and b.Related_PAK_Psef=''))) select a.service_number ,a.psefo_code,a.package_ref_code,b.product_id,b.package_id,b.element_id,b.PSEF,b.element_type,b.main_service ,b.main_discnt,b.Related_PAK_Psef,b.Related_MRC_Psef,b.TP_DAT ,b.Source   from b_subscription_bus a left join migration_product_model b  on (b.PSEF = a.psefo_code and (a.package_ref_code=b.Related_PAK_Psef or (a.package_ref_code is null and b.Related_PAK_Psef=''))) LIMIT 100000 OFFSET 0
+2025-12-13 18:31:48,897 - ERROR - Error executing streaming query: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'select a.service_number ,a.psefo_code,a.package_ref_code,b.product_id,b.package_' at line 1")
+2025-12-13 18:31:48,898 - ERROR - Paginated query execution failed.
+2025-12-13 18:31:48,903 - ERROR - ☆ 保存Excel文件时出错: At least one sheet must be visible
+2025-12-13 18:31:48,903 - INFO - 查询没有返回任何数据，或写入过程中发生错误。
+2025-12-13 18:31:48,903 - INFO - 直接SQL查询并导出到Excel的操作已完成。
+2025-12-13 18:32:37,517 - INFO - 开始执行直接SQL查询并导出到Excel...
+2025-12-13 18:32:39,317 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-13 18:32:39,810 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-13 18:32:39,912 - INFO - DEBUG: 当前连接的数据库信息: Host=10.168.180.66, Database=b'dataeconeucs'
+2025-12-13 18:32:52,662 - INFO - 查询将以每页 100000 行进行分页，结果将保存到: direct_query_result_20251213183252.xlsx
+2025-12-13 18:32:52,664 - INFO - Executing paginated query (page 1): select a.service_number ,a.psefo_code,a.package_ref_code,b.product_id,b.package_id,b.element_id,b.PSEF,b.element_type,b.main_service ,b.main_discnt,b.Related_PAK_Psef,b.Related_MRC_Psef,b.TP_DAT ,b.Source from b_subscription_bus a left join migration_product_model b on (b.PSEF = a.psefo_code and (a.package_ref_code=b.Related_PAK_Psef or (a.package_ref_code is null and b.Related_PAK_Psef='')))  select a.service_number ,a.psefo_code,a.package_ref_code,b.product_id,b.package_id,b.element_id,b.PSEF,b.element_type,b.main_service ,b.main_discnt,b.Related_PAK_Psef,b.Related_MRC_Psef,b.TP_DAT ,b.Source from b_subscription_bus a left join migration_product_model b on (b.PSEF = a.psefo_code and (a.package_ref_code=b.Related_PAK_Psef or (a.package_ref_code is null and b.Related_PAK_Psef=''))) LIMIT 100000 OFFSET 0
+2025-12-13 18:32:52,685 - ERROR - Error executing streaming query: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'select a.service_number ,a.psefo_code,a.package_ref_code,b.product_id,b.package_' at line 1")
+2025-12-13 18:32:52,685 - ERROR - Paginated query execution failed.
+2025-12-13 18:32:52,689 - ERROR - ☆ 保存Excel文件时出错: At least one sheet must be visible
+2025-12-13 18:32:52,689 - INFO - 查询没有返回任何数据，或写入过程中发生错误。
+2025-12-13 18:32:52,689 - INFO - 直接SQL查询并导出到Excel的操作已完成。
+2025-12-13 18:35:27,128 - INFO - 开始执行直接SQL查询并导出到Excel...
+2025-12-13 18:35:29,224 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-13 18:35:29,638 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-13 18:35:29,739 - INFO - DEBUG: 当前连接的数据库信息: Host=10.168.180.66, Database=b'dataeconeucs'
+2025-12-13 18:35:49,029 - INFO - 查询将以每页 100000 行进行分页，结果将保存到: direct_query_result_20251213183549.xlsx
+2025-12-13 18:35:49,031 - INFO - Executing paginated query (page 1): select a.service_number ,a.psefo_code,a.package_ref_code,b.product_id,b.package_id,b.element_id,b.PSEF,b.element_type,b.main_service ,b.main_discnt,b.Related_PAK_Psef,b.Related_MRC_Psef,b.TP_DAT ,b.Source  from b_subscription_bus a left join migration_product_model b on (b.PSEF = a.psefo_code and (a.package_ref_code=b.Related_PAK_Psef or (a.package_ref_code is null and b.Related_PAK_Psef='')))select a.service_number ,a.psefo_code,a.package_ref_code,b.product_id,b.package_id,b.element_id,b.PSEF,b.element_type,b.main_service ,b.main_discnt,b.Related_PAK_Psef,b.Related_MRC_Psef,b.TP_DAT ,b.Source  from b_subscription_bus a left join migration_product_model b on (b.PSEF = a.psefo_code and (a.package_ref_code=b.Related_PAK_Psef or (a.package_ref_code is null and b.Related_PAK_Psef=''))) LIMIT 100000 OFFSET 0
+2025-12-13 18:35:49,056 - ERROR - Error executing streaming query: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'select a.service_number ,a.psefo_code,a.package_ref_code,b.product_id,b.package_' at line 1")
+2025-12-13 18:35:49,056 - ERROR - Paginated query execution failed.
+2025-12-13 18:35:49,060 - ERROR - ☆ 保存Excel文件时出错: At least one sheet must be visible
+2025-12-13 18:35:49,060 - INFO - 查询没有返回任何数据，或写入过程中发生错误。
+2025-12-13 18:35:49,061 - INFO - 直接SQL查询并导出到Excel的操作已完成。
+2025-12-13 18:37:58,505 - INFO - 程序开始了！！！！
+2025-12-13 18:38:11,941 - INFO - 开始执行直接SQL查询并导出到Excel...
+2025-12-13 18:38:13,950 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-13 18:38:14,215 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-13 18:38:14,316 - INFO - DEBUG: 当前连接的数据库信息: Host=10.168.180.66, Database=b'dataeconeucs'
+2025-12-13 18:58:59,237 - INFO - 程序开始了！！！！
+2025-12-13 18:59:01,683 - INFO - 开始执行直接SQL查询并导出到Excel...
+2025-12-13 18:59:04,100 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-13 18:59:05,081 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-13 18:59:05,182 - INFO - DEBUG: 当前连接的数据库信息: Host=10.168.180.66, Database=b'dataeconeucs'
+2025-12-13 18:59:14,532 - INFO - 查询将以每页 100000 行进行分页，结果将保存到: direct_query_result_20251213185914.xlsx
+2025-12-13 18:59:14,535 - INFO - Executing paginated query (page 1): select a.service_number ,a.psefo_code,a.package_ref_code,b.product_id,b.package_id,b.element_id,b.PSEF,b.element_type,b.main_service ,b.main_discnt,b.Related_PAK_Psef,b.Related_MRC_Psef,b.TP_DAT ,b.Source from b_subscription_bus a left join migration_product_model b on (b.PSEF = a.psefo_code and (a.package_ref_code=b.Related_PAK_Psef or (a.package_ref_code is null and b.Related_PAK_Psef=''))) LIMIT 100000 OFFSET 0
+2025-12-13 19:01:49,166 - INFO - 已写入 100000 行 (总计: 100000)...
+2025-12-13 19:01:49,166 - INFO - Executing paginated query (page 2): select a.service_number ,a.psefo_code,a.package_ref_code,b.product_id,b.package_id,b.element_id,b.PSEF,b.element_type,b.main_service ,b.main_discnt,b.Related_PAK_Psef,b.Related_MRC_Psef,b.TP_DAT ,b.Source from b_subscription_bus a left join migration_product_model b on (b.PSEF = a.psefo_code and (a.package_ref_code=b.Related_PAK_Psef or (a.package_ref_code is null and b.Related_PAK_Psef=''))) LIMIT 100000 OFFSET 100000
+2025-12-13 19:04:20,917 - INFO - 已写入 100000 行 (总计: 200000)...
+2025-12-13 19:04:20,918 - INFO - Executing paginated query (page 3): select a.service_number ,a.psefo_code,a.package_ref_code,b.product_id,b.package_id,b.element_id,b.PSEF,b.element_type,b.main_service ,b.main_discnt,b.Related_PAK_Psef,b.Related_MRC_Psef,b.TP_DAT ,b.Source from b_subscription_bus a left join migration_product_model b on (b.PSEF = a.psefo_code and (a.package_ref_code=b.Related_PAK_Psef or (a.package_ref_code is null and b.Related_PAK_Psef=''))) LIMIT 100000 OFFSET 200000
+2025-12-13 19:07:11,291 - INFO - 已写入 100000 行 (总计: 300000)...
+2025-12-13 19:07:11,292 - INFO - Executing paginated query (page 4): select a.service_number ,a.psefo_code,a.package_ref_code,b.product_id,b.package_id,b.element_id,b.PSEF,b.element_type,b.main_service ,b.main_discnt,b.Related_PAK_Psef,b.Related_MRC_Psef,b.TP_DAT ,b.Source from b_subscription_bus a left join migration_product_model b on (b.PSEF = a.psefo_code and (a.package_ref_code=b.Related_PAK_Psef or (a.package_ref_code is null and b.Related_PAK_Psef=''))) LIMIT 100000 OFFSET 300000
+2025-12-13 19:10:15,025 - INFO - 已写入 100000 行 (总计: 400000)...
+2025-12-13 19:10:15,025 - INFO - Executing paginated query (page 5): select a.service_number ,a.psefo_code,a.package_ref_code,b.product_id,b.package_id,b.element_id,b.PSEF,b.element_type,b.main_service ,b.main_discnt,b.Related_PAK_Psef,b.Related_MRC_Psef,b.TP_DAT ,b.Source from b_subscription_bus a left join migration_product_model b on (b.PSEF = a.psefo_code and (a.package_ref_code=b.Related_PAK_Psef or (a.package_ref_code is null and b.Related_PAK_Psef=''))) LIMIT 100000 OFFSET 400000
+2025-12-13 19:11:51,194 - INFO - 已写入 63266 行 (总计: 463266)...
+2025-12-13 19:11:51,194 - INFO - Last page fetched. Ending pagination.
+2025-12-13 19:12:53,626 - INFO - 成功将 463266 条记录写入Excel文件。
+2025-12-13 19:12:53,626 - INFO - 直接SQL查询并导出到Excel的操作已完成。
+2025-12-18 16:01:16,829 - INFO - 程序开始了！！！！
+2025-12-18 16:02:28,116 - INFO - 开始执行直接SQL查询并导出到Excel...
+2025-12-18 16:03:07,967 - INFO - 程序开始了！！！！
+2025-12-18 16:05:02,065 - INFO - 程序开始了！！！！
+2025-12-18 16:05:19,746 - INFO - --- 将Excel数据导入到【已存在】的MySQL表 ---
+2025-12-18 16:05:56,184 - INFO - ☆ 您选择的文件是: D:\2025\AI\exe\migration_tools\import_excel\ONE Mapping Table 31.xlsx
+
+2025-12-18 16:06:07,223 - INFO - 成功加载工作表: Main
+
+2025-12-18 16:06:07,324 - INFO - 数据加载成功！
+
+2025-12-18 16:06:09,791 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-18 16:06:09,906 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-18 16:07:11,488 - INFO - 表 `one_migration_product_model_main` 存在，准备导入数据...
+2025-12-18 16:07:11,548 - ERROR - 程序发生未处理的异常: (1054, "Unknown column 'Unnamed:_4' in 'field list'")
+Traceback (most recent call last):
+  File "D:\2025\AI\exe\migration_tools\main.py", line 47, in <module>
+    choose_menu()
+  File "D:\2025\AI\exe\migration_tools\main.py", line 30, in choose_menu
+    excelInsertService.excel_to_existing_table()
+  File "D:\2025\AI\exe\migration_tools\service\excelInsertService.py", line 55, in excel_to_existing_table
+    excelImportDao.import_data_to_mysql(conn, table_name, df)
+  File "D:\2025\AI\exe\migration_tools\dao\excelImportDao.py", line 119, in import_data_to_mysql
+    cursor.executemany(insert_sql, batch)
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\cursors.py", line 182, in executemany
+    return self._do_execute_many(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\cursors.py", line 220, in _do_execute_many
+    rows += self.execute(sql + postfix)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\cursors.py", line 153, in execute
+    result = self._query(query)
+             ^^^^^^^^^^^^^^^^^^
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\connections.py", line 575, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\connections.py", line 826, in _read_query_result
+    result.read()
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\connections.py", line 1203, in read
+    first_packet = self.connection._read_packet()
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\connections.py", line 782, in _read_packet
+    packet.raise_for_error()
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1054, "Unknown column 'Unnamed:_4' in 'field list'")
+2025-12-18 16:08:47,278 - INFO - 程序开始了！！！！
+2025-12-18 16:08:49,754 - INFO - --- 将Excel数据导入到【已存在】的MySQL表 ---
+2025-12-18 16:08:53,321 - INFO - ☆ 您选择的文件是: D:\2025\AI\exe\migration_tools\import_excel\General Product List (2).xlsx
+
+2025-12-18 16:08:59,681 - INFO - 成功加载工作表: CP_Product
+
+2025-12-18 16:08:59,782 - INFO - 数据加载成功！
+
+2025-12-18 16:09:02,072 - INFO - 选择的数据库: dataeconeucs (10.168.180.66:3306/mECONECOMM01)
+2025-12-18 16:09:02,186 - INFO - 成功连接到数据库: dataeconeucs
+
+2025-12-18 16:15:34,906 - ERROR - 程序发生未处理的异常: (2013, 'Lost connection to MySQL server during query')
+Traceback (most recent call last):
+  File "D:\2025\AI\exe\migration_tools\main.py", line 47, in <module>
+    choose_menu()
+  File "D:\2025\AI\exe\migration_tools\main.py", line 30, in choose_menu
+    excelInsertService.excel_to_existing_table()
+  File "D:\2025\AI\exe\migration_tools\service\excelInsertService.py", line 45, in excel_to_existing_table
+    if not excelImportDao.check_table_exists(cursor, table_name):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\2025\AI\exe\migration_tools\dao\excelImportDao.py", line 9, in check_table_exists
+    cursor.execute("SHOW TABLES LIKE %s", (table_name,))
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\cursors.py", line 153, in execute
+    result = self._query(query)
+             ^^^^^^^^^^^^^^^^^^
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\connections.py", line 575, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\connections.py", line 826, in _read_query_result
+    result.read()
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\connections.py", line 1203, in read
+    first_packet = self.connection._read_packet()
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programs\Python\Python312\Lib\site-packages\pymysql\connections.py", line 760, in _read_packet
+    raise err.OperationalError(
+pymysql.err.OperationalError: (2013, 'Lost connection to MySQL server during query')
